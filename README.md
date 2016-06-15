@@ -1,2 +1,1 @@
-# drupal-manifest
-Drupal sites manifest
+# Drupal Sites Manifest

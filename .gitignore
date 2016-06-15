@@ -1,0 +1,6 @@
+# Ignore dependencies.
+vendor
+
+# Ignore system files.
+ *.sublime-workspace
+.DS_Store

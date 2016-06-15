@@ -8,4 +8,4 @@ install: gem install yamllint
 script:
   - pwd
   - ls
-  - yamllint sites.yml
+  - yamllint ./sites.yml

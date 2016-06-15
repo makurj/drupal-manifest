@@ -1,23 +1,6 @@
-sudo: false
+language: ruby
 
-language: php
-
-php:
-  - 5.6
-
-matrix:
-  fast_finish: true
-
-before_install:
-  - composer self-update
-
-install:
-  # Add composer's global bin directory to the path.
-  - export PATH="$HOME/.composer/vendor/bin:$PATH"
-
-  # Install dependencies.
-  - composer global require symfony/yaml
-  - composer install
+install: gem install yamllint
 
 script:
-  - which composer
+  - which yamllint

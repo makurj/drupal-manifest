@@ -16,7 +16,6 @@ install:
   - export PATH="$HOME/.composer/vendor/bin:$PATH"
 
   # Install dependencies.
-  - composer global require symfony/yaml
   - composer install
 
 script:

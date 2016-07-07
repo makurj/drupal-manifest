@@ -3,34 +3,41 @@ sites:
         shortname: brandon
         type: custom
         profile: sitenow
+        site: uiowa701
         git: git@github.com:ITS-UofIowa/brandon.sitenow.uiowa.edu.git
     rick.sitenow.uiowa.edu:
         shortname: rick
         type: custom
         profile: sitenow
+        site: uiowa701
         git: git@github.com:ITS-UofIowa/rick.sitenow.uiowa.edu.git
     brandonstandard.sitenow.uiowa.edu:
         shortname: brandonstandard
         type: standard
+        site: uiowa701
         profile: sitenow_standard_profile
     brian.sitenow.uiowa.edu:
         shortname: brian
         type: standard
         profile: sitenow_standard_profile
+        site: uiowa702
     hawktools.uiowa.edu:
         shortname: hawktools
         type: custom
         profile: sitenow
+        site: uiowa701
         git: git@github.com:/its-uofiowa/hawktools.uiowa.edu
     sitenow.uiowa.edu:
         shortname: sitenow
         type: custom
         profile: sitenow
+        site: uiowa701
         git: git@github.com:/its-uofiowa/sitenow.uiowa.edu
     housing.uiowa.edu:
         shortname: housing
         type: custom
         profile: sitenow
+        site: uiowa701
         git: git@github.com:/its-uofiowa/housing.uiowa.edu
     # advisingcenter.uiowa.edu:
     #     shortname: advisingcenter

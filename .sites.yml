@@ -39,6 +39,16 @@ sites:
         profile: sitenow
         site: uiowa701
         git: git@github.com:/its-uofiowa/housing.uiowa.edu
+    housing.uiowa.edu/uhd-admin:
+        shortname: housing_uhd-admin
+        type: custom
+        profile: sitenow
+        site: uiowa701
+    uiowa.edu/staff:
+        shortname: uiowastaff
+        type: standard
+        profile: sitenow_standard_profile
+        site: uiowa701
     # advisingcenter.uiowa.edu:
     #     shortname: advisingcenter
     #     type: custom

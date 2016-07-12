@@ -54,6 +54,7 @@ sites:
         type: custom
         profile: sitenow
         site: uiowa701
+        git: git@github.com:/its-uofiowa/uiowa.edu
     # advisingcenter.uiowa.edu:
     #     shortname: advisingcenter
     #     type: custom

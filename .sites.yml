@@ -49,6 +49,11 @@ sites:
         type: standard
         profile: sitenow_standard_profile
         site: uiowa701
+    uiowa.edu:
+        shortname: uiowa
+        type: custom
+        profile: sitenow
+        site: uiowa701
     # advisingcenter.uiowa.edu:
     #     shortname: advisingcenter
     #     type: custom

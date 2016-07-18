@@ -31,6 +31,10 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    asa.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     arthistory.org.uiowa.edu:
         type: standard
         site: uiowa701

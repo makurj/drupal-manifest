@@ -1,4 +1,8 @@
 sites:
+    amnesty.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     aac.org.uiowa.edu:
         type: standard
         site: uiowa701
@@ -19,6 +23,10 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    apo.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     arthistory.org.uiowa.edu:
         type: standard
         site: uiowa701
@@ -35,3 +43,4 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+

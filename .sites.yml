@@ -19,6 +19,10 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    arh.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     apo.org.uiowa.edu:
         type: standard
         site: uiowa701

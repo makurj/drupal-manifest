@@ -3,7 +3,23 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    aac.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    aaup.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    acm.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     apalsa.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    arthistory.org.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -11,8 +27,12 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    cycling.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     davies.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
-        
+

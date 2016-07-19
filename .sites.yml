@@ -31,19 +31,19 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
-    asa.org.uiowa.edu:
-        type: standard
-        site: uiowa701
-        profile: sitenow_standard_profile
     arthistory.org.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
-    chemsafe.lab.uiowa.edu:
+    asa.org.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
     cycling.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    chemsafe.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile

@@ -19,6 +19,10 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    anthropology.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     apalsa.org.uiowa.edu:
         type: standard
         site: uiowa701
@@ -39,7 +43,79 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    asauiowa.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    badminton.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    bars.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    blackart.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    blsa.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    campadventure.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    cec.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    china.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    cmaedu.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    cssa.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     cycling.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    designui.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    dic.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    drupal.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    edoncampus.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    english-society.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    epx.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    evaluation.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    faith.org.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile

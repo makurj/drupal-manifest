@@ -244,5 +244,11 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
-
-
+    shpe.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    sigmaalphaiota.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile

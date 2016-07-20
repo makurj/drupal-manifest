@@ -1,4 +1,17 @@
 sites:
+    sitenow.uiowa.edu:
+        type: custom
+        site: uiowa701
+        git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
+        profile: sitenow
+    chemsafe.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    davies.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     aac.org.uiowa.edu:
         type: standard
         site: uiowa701
@@ -231,18 +244,5 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
-    chemsafe.lab.uiowa.edu:
-        type: standard
-        site: uiowa701
-        profile: sitenow_standard_profile
-    davies.lab.uiowa.edu:
-        type: standard
-        site: uiowa701
-        profile: sitenow_standard_profile
-    sitenow.uiowa.edu:
-        type: custom
-        site: uiowa701
-        git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
-        profile: sitenow
 
 

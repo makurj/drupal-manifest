@@ -4,7 +4,15 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
         profile: sitenow
+    campbell.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     chemsafe.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    cytogenetics.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile

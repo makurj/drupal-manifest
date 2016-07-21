@@ -151,6 +151,10 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    lynda.uiowa.edu:
+        type: custom
+        site: uiowa701
+        profile: sitenow
     mangalam.lab.uiowa.edu:
         type: standard
         site: uiowa701

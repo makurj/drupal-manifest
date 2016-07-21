@@ -154,6 +154,7 @@ sites:
     lynda.uiowa.edu:
         type: custom
         site: uiowa701
+        git: 'git@github.com:ITS-UofIowa/lynda.uiowa.edu.git'
         profile: sitenow
     mangalam.lab.uiowa.edu:
         type: standard

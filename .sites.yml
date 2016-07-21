@@ -17,11 +17,19 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    anthony.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     badovinac.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
     baker.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    bonthius.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -33,11 +41,19 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    brogden.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     campbell.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
     chemsafe.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    cromwell.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -53,11 +69,19 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    econsent.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     elcock.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
     engelhardt.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    fethke.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -89,6 +113,10 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    jprineas.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     karandikar.lab.uiowa.edu:
         type: standard
         site: uiowa701
@@ -97,7 +125,15 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    kristensen.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     lal.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    lila.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -129,7 +165,35 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    narayanan.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    neuroerg.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    nonnenmann.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    outreach.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    perinatalhealth.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     perlman.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    peters.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    petersen.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -157,7 +221,23 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    rohlman.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    roman.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     rubenstein.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    russo.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    salem.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -181,11 +261,19 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    smubeen.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     tanas.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
     taylor.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    traumasupportstudy.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -206,6 +294,10 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
     weiss.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    wohlgenannt.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile

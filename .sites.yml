@@ -14,6 +14,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/library.law.uiowa.edu.git'
         profile: sitenow
+    oniowa.uiowa.edu:
+        type: custom
+        site: uiowa701
+        git: 'git@github.com:ITS-UofIowa/oniowa.uiowa.edu.git'
+        profile: sitenow
     sitenow.uiowa.edu:
         type: custom
         site: uiowa701
@@ -528,11 +533,6 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
-    oniowa.uiowa.edu:
-        type: custom
-        site: uiowa701
-        git: 'git@github.com:ITS-UofIowa/oniowa.uiowa.edu.git'
-        profile: sitenow
     ostem.org.uiowa.edu:
         type: standard
         site: uiowa701

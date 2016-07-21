@@ -1,7 +1,7 @@
 sites:
     education.uiowa.edu:
         type: custom
-        site: uiowa701
+        site: uiowa703
         git: 'git@github.com:ITS-UofIowa/education.uiowa.edu.git'
         profile: sitenow
     sitenow.uiowa.edu:

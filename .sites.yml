@@ -1,4 +1,9 @@
 sites:
+    artshare.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/artshare.uiowa.edu.git'
+        profile: sitenow
     education.uiowa.edu:
         type: custom
         site: uiowa703

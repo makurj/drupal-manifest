@@ -38,6 +38,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/tippie.uiowa.edu.git'
         profile: sitenow
+    vandervelde.studio.uiowa.edu:
+        type: custom
+        site: uiowa701
+        git: 'git@github.com:ITS-UofIowa/vandervelde.studio.uiowa.edu.git'
+        profile: sitenow
     4cast.uiowa.edu:
         type: standard
         site: uiowa701

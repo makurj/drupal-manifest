@@ -29,6 +29,10 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
         profile: sitenow
+    tier.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/tier.uiowa.edu.git'
     tippie.uiowa.edu:
         type: custom
         site: uiowa703

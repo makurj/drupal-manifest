@@ -33,6 +33,7 @@ sites:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/tier.uiowa.edu.git'
+        profile: sitenow
     tippie.uiowa.edu:
         type: custom
         site: uiowa703

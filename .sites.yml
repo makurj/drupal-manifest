@@ -38,6 +38,10 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/tippie.uiowa.edu.git'
         profile: sitenow
+    4cast.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     abel.lab.uiowa.edu:
         type: standard
         site: uiowa701

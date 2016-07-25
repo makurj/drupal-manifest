@@ -14,6 +14,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cam.fo.uiowa.edu.git'
         profile: sitenow
+    controller.fo.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/controller.fo.uiowa.edu.git'
+        profile: sitenow
     diversity.uiowa.edu:
         type: custom
         site: uiowa703
@@ -24,15 +29,30 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/education.uiowa.edu.git'
         profile: sitenow
+    fa.fo.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/fa.fo.uiowa.edu.git'
+        profile: sitenow
     financialaid.uiowa.edu:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/financialaid.uiowa.edu.git'
         profile: sitenow
+    fmb.fo.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: git@github.com/ITS-UofIowa/fmb.fo.uiowa.edu.git
+        profile: sitenow
     fo.uiowa.edu:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/fo.uiowa.edu.git'
+        profile: sitenow
+    gao.fo.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: git@github.com/ITS-UofIowa/gao.fo.uiowa.edu.git
         profile: sitenow
     grantwood.uiowa.edu:
         type: custom
@@ -48,6 +68,11 @@ sites:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/hr.uiowa.edu.git'
+        profile: sitenow
+    idcard.fo.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: git@github.com/ITS-UofIowa/idcard.fo.uiowa.edu.git
         profile: sitenow
     iisc.uiowa.edu:
         type: custom
@@ -99,6 +124,11 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
         profile: sitenow
+    tax.fo.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: git@github.com/ITS-UofIowa/tax.fo.uiowa.edu.git
+        profile: sitenow
     tier.uiowa.edu:
         type: custom
         site: uiowa703
@@ -108,6 +138,16 @@ sites:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/tippie.uiowa.edu.git'
+        profile: sitenow
+    treasury.fo.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: git@github.com/ITS-UofIowa/treasury.fo.uiowa.edu.git
+        profile: sitenow
+    ubill.fo.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: git@github.com/ITS-UofIowa/ubill.fo.uiowa.edu.git
         profile: sitenow
     vandervelde.studio.uiowa.edu:
         type: custom

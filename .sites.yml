@@ -24,6 +24,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/education.uiowa.edu.git'
         profile: sitenow
+    financialaid.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/financialaid.uiowa.edu.git'
+        profile: sitenow
     fo.uiowa.edu:
         type: custom
         site: uiowa703

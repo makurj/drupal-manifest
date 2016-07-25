@@ -14,6 +14,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/honors.uiowa.edu.git'
         profile: sitenow
+    hr.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/hr.uiowa.edu.git'
+        profile: sitenow
     library.law.uiowa.edu:
         type: custom
         site: uiowa703

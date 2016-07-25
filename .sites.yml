@@ -39,6 +39,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/hr.uiowa.edu.git'
         profile: sitenow
+    inspire.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/inspire.uiowa.edu.git'
+        profile: sitenow
     library.law.uiowa.edu:
         type: custom
         site: uiowa703

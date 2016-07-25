@@ -9,6 +9,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/artshare.uiowa.edu.git'
         profile: sitenow
+    cam.fo.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/cam.fo.uiowa.edu.git'
+        profile: sitenow
     education.uiowa.edu:
         type: custom
         site: uiowa703

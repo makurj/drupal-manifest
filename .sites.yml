@@ -29,6 +29,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/fo.uiowa.edu.git'
         profile: sitenow
+    grantwood.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/grantwood.uiowa.edu.git'
+        profile: sitenow
     honors.uiowa.edu:
         type: custom
         site: uiowa703

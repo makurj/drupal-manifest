@@ -4,6 +4,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/afr.fo.uiowa.edu.git'
         profile: sitenow
+    arts.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/arts.uiowa.edu.git'
+        profile: sitenow
     artshare.uiowa.edu:
         type: custom
         site: uiowa703

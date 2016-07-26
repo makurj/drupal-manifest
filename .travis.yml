@@ -12,9 +12,6 @@ before_install:
   - composer self-update
 
 install:
-  # Add composer's global bin directory to the path.
-  - export PATH="$HOME/.composer/vendor/bin:$PATH"
-
   # Install dependencies.
   - composer install
 

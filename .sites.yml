@@ -164,6 +164,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/tippie.uiowa.edu.git'
         profile: sitenow
+    transportation.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/transportation.uiowa.edu.git'
+        profile: sitenow
     treasury.fo.uiowa.edu:
         type: custom
         site: uiowa703

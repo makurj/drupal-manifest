@@ -114,7 +114,7 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/lynda.uiowa.edu.git'
         profile: sitenow
-    magazine.education.uiowa.edu: 
+    magazine.education.uiowa.edu:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/magazine.education.uiowa.edu.git'

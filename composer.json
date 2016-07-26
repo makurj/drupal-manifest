@@ -1,0 +1,13 @@
+{
+  "name": "its-uofiowa/drupal-manifest",
+  "description": "University of Iowa Drupal Manifest.",
+  "authors": [
+    {
+      "name": "ITS Web Services",
+      "email": "its-webservices@iowa.uiowa.edu"
+    }
+  ],
+  "require": {
+    "j13k/yaml-lint": "^1.0"
+  }
+}

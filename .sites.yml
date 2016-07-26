@@ -124,6 +124,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/magazine.education.uiowa.edu.git'
         profile: sitenow
+    maps.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/maps.uiowa.edu.git'
+        profile: sitenow
     newstudents.uiowa.edu:
         type: custom
         site: uiowa703

@@ -84,6 +84,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/idcard.fo.uiowa.edu.git'
         profile: sitenow
+    ideal.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/ideal.uiowa.edu.git'
+        profile: sitenow
     iisc.uiowa.edu:
         type: custom
         site: uiowa703

@@ -14,6 +14,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cam.fo.uiowa.edu.git'
         profile: sitenow
+    cgrer.uiowa.edu:
+	type: custom
+	site: uiowa703
+	git: 'git@github.com:ITS-UofIowa/cgrer.uiowa.edu.git'
+	profile: sitenow
     controller.fo.uiowa.edu:
         type: custom
         site: uiowa703
@@ -69,6 +74,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/hr.uiowa.edu.git'
         profile: sitenow
+    iae.education.uiowa.edu:
+	type: custom
+	site: uiowa703
+	git: 'git@github.com:ITS-UofIowa/iae.education.uiowa.edu.git'
+	profile: sitenow
     idcard.fo.uiowa.edu:
         type: custom
         site: uiowa703
@@ -104,6 +114,11 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/lynda.uiowa.edu.git'
         profile: sitenow
+    magazine.education.uiowa.edu:
+	type: custom
+	site: uiowa703
+	git: 'git@github.com:ITS-UofIowa/magazine.education.uiowa.edu.git'
+	profile: sitenow
     newstudents.uiowa.edu:
         type: custom
         site: uiowa703

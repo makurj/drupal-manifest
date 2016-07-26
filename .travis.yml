@@ -16,4 +16,4 @@ install:
   - composer install
 
 script:
-  - ./vendor/bin/lint-yaml .sites.yml
+  - ./vendor/bin/yaml-lint .sites.yml

@@ -1,0 +1,114 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "9659d07f635fa46938c42a46cd056268",
+    "content-hash": "14db6d0326b057310f7cba0c1ad19274",
+    "packages": [
+        {
+            "name": "j13k/yaml-lint",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/j13k/yaml-lint.git",
+                "reference": "e2142c16c82b13774745d14ecaae2fde942cf916"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/j13k/yaml-lint/zipball/e2142c16c82b13774745d14ecaae2fde942cf916",
+                "reference": "e2142c16c82b13774745d14ecaae2fde942cf916",
+                "shasum": ""
+            },
+            "require": {
+                "symfony/yaml": "^2"
+            },
+            "bin": [
+                "bin/yaml-lint"
+            ],
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "John Fitzpatrick",
+                    "homepage": "http://github.com/j13k"
+                }
+            ],
+            "description": "Command line utility for checking YAML file syntax",
+            "homepage": "https://github.com/j13k/yaml-lint",
+            "keywords": [
+                "cli",
+                "lint",
+                "symfony",
+                "syntax",
+                "utility",
+                "yaml",
+                "yml"
+            ],
+            "time": "2016-03-03 09:25:42"
+        },
+        {
+            "name": "symfony/yaml",
+            "version": "v2.8.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/yaml.git",
+                "reference": "dba4bb5846798cd12f32e2d8f3f35d77045773c8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/dba4bb5846798cd12f32e2d8f3f35d77045773c8",
+                "reference": "dba4bb5846798cd12f32e2d8f3f35d77045773c8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.9"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.8-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Component\\Yaml\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Fabien Potencier",
+                    "email": "fabien@symfony.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony Yaml Component",
+            "homepage": "https://symfony.com",
+            "time": "2016-06-29 05:29:29"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": {
+        "php": "^5.6"
+    }
+}

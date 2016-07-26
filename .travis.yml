@@ -19,4 +19,4 @@ install:
   - composer install
 
 script:
-  - which composer
+  - lint-yaml .sites.yml

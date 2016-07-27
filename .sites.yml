@@ -54,6 +54,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/controller.fo.uiowa.edu.git'
         profile: sitenow
+    dining.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/dining.uiowa.edu.git'
+        profile: sitenow
     diversity.uiowa.edu:
         type: custom
         site: uiowa703

@@ -4,6 +4,21 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/afr.fo.uiowa.edu.git'
         profile: sitenow
+    animal.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/animal.research.uiowa.edu.git'
+        profile: sitenow
+    announcements.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/announcements.research.uiowa.edu.git'
+        profile: sitenow
+    archaeology.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/archaeology.uiowa.edu.git'
+        profile: sitenow
     arts.uiowa.edu:
         type: custom
         site: uiowa703
@@ -19,10 +34,20 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cam.fo.uiowa.edu.git'
         profile: sitenow
+    cbb.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/cbb.research.uiowa.edu.git'
+        profile: sitenow
     cgrer.uiowa.edu:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cgrer.uiowa.edu.git'
+        profile: sitenow
+    cmrf.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/cmrf.research.uiowa.edu.git'
         profile: sitenow
     controller.fo.uiowa.edu:
         type: custom
@@ -158,6 +183,11 @@ sites:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/recserv.uiowa.edu.git'
+        profile: sitenow
+    ris.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/ris.research.uiowa.edu.git'
         profile: sitenow
     sitenow.uiowa.edu:
         type: custom

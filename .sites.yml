@@ -179,6 +179,11 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/oniowa.uiowa.edu.git'
         profile: sitenow
+    outreach.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/outreach.uiowa.edu.git'
+        profile: sitenow
     police.uiowa.edu:
         type: custom
         site: uiowa703

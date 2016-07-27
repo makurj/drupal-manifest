@@ -258,6 +258,26 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    bme.engineering.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    cee.engineering.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    cbe.engineering.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    ece.engineering.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+    mie.engineering.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     abel.lab.uiowa.edu:
         type: standard
         site: uiowa701

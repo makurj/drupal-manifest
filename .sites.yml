@@ -319,6 +319,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/uc.uiowa.edu.git'
         profile: sitenow
+    transfer.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/transfer.uiowa.edu.git'
+        profile: sitenow
     vandervelde.studio.uiowa.edu:
         type: custom
         site: uiowa701

@@ -229,6 +229,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/maps.uiowa.edu.git'
         profile: sitenow
+    mnh.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/mnh.uiowa.edu.git'
+        profile: sitenow
     newstudents.uiowa.edu:
         type: custom
         site: uiowa703

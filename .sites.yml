@@ -34,6 +34,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cam.fo.uiowa.edu.git'
         profile: sitenow
+    catering.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/catering.uiowa.edu.git'
+        profile: sitenow
     cbb.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -308,6 +313,11 @@ sites:
         type: custom
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/vandervelde.studio.uiowa.edu.git'
+        profile: sitenow
+    vending.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/vending.uiowa.edu.git'
         profile: sitenow
     4cast.uiowa.edu:
         type: standard

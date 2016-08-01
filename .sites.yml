@@ -309,6 +309,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/recserv.uiowa.edu.git'
         profile: sitenow
+    president.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/president.uiowa.edu.git'
+        profile: sitenow
     ris.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -333,6 +338,11 @@ sites:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/tier.uiowa.edu.git'
+        profile: sitenow
+    tile.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/tile.uiowa.edu.git'
         profile: sitenow
     tippie.uiowa.edu:
         type: custom

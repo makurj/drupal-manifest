@@ -49,6 +49,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cgrer.uiowa.edu.git'
         profile: sitenow
+    cio.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/cio.uiowa.edu.git'
+        profile: sitenow
     cmrf.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -134,6 +139,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/grantwood.uiowa.edu.git'
         profile: sitenow
+    hawktools.uiowa.edu:
+        type: custom
+        site: uiowa701
+        git: 'git@github.com:ITS-UofIowa/hawktools.uiowa.edu.git'
+        profile: sitenow
     hancher.uiowa.edu:
         type: custom
         site: uiowa703
@@ -204,6 +214,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/inspire.uiowa.edu.git'
         profile: sitenow
+    international.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/international.uiowa.edu.git'
+        profile: sitenow
     itsecurity.uiowa.edu:
         type: custom
         site: uiowa703
@@ -239,6 +254,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/newstudents.uiowa.edu.git'
         profile: sitenow
+    now.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/now.uiowa.edu.git'
+        profile: sitenow
     obermann.uiowa.edu:
         type: custom
         site: uiowa703
@@ -259,6 +279,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/outreach.uiowa.edu.git'
         profile: sitenow
+    osmrc.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/osmrc.uiowa.edu.git'
+        profile: sitenow
     ovproperations.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -268,6 +293,16 @@ sites:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/police.uiowa.edu.git'
+        profile: sitenow
+    portalpages.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/portalpages.research.uiowa.edu.git'
+        profile: sitenow
+    rcouncil.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/rcouncil.research.uiowa.edu.git'
         profile: sitenow
     recserv.uiowa.edu:
         type: custom
@@ -293,6 +328,11 @@ sites:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/tax.fo.uiowa.edu.git'
+        profile: sitenow
+    theme.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/theme.uiowa.edu.git'
         profile: sitenow
     tier.uiowa.edu:
         type: custom
@@ -1096,6 +1136,11 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    uiprotolabs.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/uiprotolabs.uiowa.edu.git'
+        profile: sitenow
     uira.org.uiowa.edu:
         type: standard
         site: uiowa701

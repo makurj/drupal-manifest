@@ -269,6 +269,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/oldcap.uiowa.edu.git'
         profile: sitenow
+    oneit.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/oneit.uiowa.edu.git'
+        profile: sitenow
     oniowa.uiowa.edu:
         type: custom
         site: uiowa701

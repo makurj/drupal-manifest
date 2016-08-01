@@ -49,6 +49,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cgrer.uiowa.edu.git'
         profile: sitenow
+    cio.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/cio.uiowa.edu.git'
+        profile: sitenow
     cmrf.research.uiowa.edu:
         type: custom
         site: uiowa703

@@ -254,6 +254,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/newstudents.uiowa.edu.git'
         profile: sitenow
+    now.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/now.uiowa.edu.git'
+        profile: sitenow
     obermann.uiowa.edu:
         type: custom
         site: uiowa703

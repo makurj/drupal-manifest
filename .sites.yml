@@ -269,6 +269,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/outreach.uiowa.edu.git'
         profile: sitenow
+    osmrc.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/osmrc.uiowa.edu.git'
+        profile: sitenow
     ovproperations.research.uiowa.edu:
         type: custom
         site: uiowa703

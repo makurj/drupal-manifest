@@ -289,6 +289,16 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/police.uiowa.edu.git'
         profile: sitenow
+    portalpages.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/portalpages.research.uiowa.edu.git'
+        profile: sitenow
+    rcouncil.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/rcouncil.research.uiowa.edu.git'
+        profile: sitenow
     recserv.uiowa.edu:
         type: custom
         site: uiowa703
@@ -1111,6 +1121,11 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    uiprotolabs.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/uiprotolabs.uiowa.edu.git'
+        profile: sitenow
     uira.org.uiowa.edu:
         type: standard
         site: uiowa701

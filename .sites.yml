@@ -214,6 +214,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/inspire.uiowa.edu.git'
         profile: sitenow
+    international.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/international.uiowa.edu.git'
+        profile: sitenow
     itsecurity.uiowa.edu:
         type: custom
         site: uiowa703

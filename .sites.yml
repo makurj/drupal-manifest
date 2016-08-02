@@ -139,6 +139,16 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/gao.fo.uiowa.edu.git'
         profile: sitenow
+    gencounsel.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/gencounsel.uiowa.edu.git'
+        profile: sitenow
+    govrel.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/govrel.uiowa.edu.git'
+        profile: sitenow
     grantbulletin.research.uiowa.edu:
         type: custom
         site: uiowa703

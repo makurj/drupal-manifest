@@ -349,6 +349,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/president.uiowa.edu.git'
         profile: sitenow
+    reports.its.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/reports.its.uiowa.edu.git'
+        profile: sitenow
     ris.research.uiowa.edu:
         type: custom
         site: uiowa703

@@ -167,7 +167,7 @@ sites:
     housing.uiowa.edu:
         type: custom
         site: uiowa703
-        git: 'git@github.com:ITS-UofIowa/housing.uiowa.edu.git'
+        git: 'git@github.com:ITS-UofIowa/housing.uiowa.edu.uhd-admin.git'
         profile: sitenow
     housing.uiowa.edu.uhd-admin:
         type: custom

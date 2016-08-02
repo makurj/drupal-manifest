@@ -164,6 +164,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/honors.uiowa.edu.git'
         profile: sitenow
+    housing.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/housing.uiowa.edu.git'
+        profile: sitenow
     hpc.uiowa.edu:
         type: custom
         site: uiowa703

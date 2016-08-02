@@ -4,6 +4,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/afr.fo.uiowa.edu.git'
         profile: sitenow
+    aging.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/aging.uiowa.edu.git'
+        profile: sitenow
     animal.research.uiowa.edu:
         type: custom
         site: uiowa703

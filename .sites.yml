@@ -139,6 +139,16 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/gao.fo.uiowa.edu.git'
         profile: sitenow
+    gencounsel.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/gencounsel.uiowa.edu.git'
+        profile: sitenow
+    govrel.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/govrel.uiowa.edu.git'
+        profile: sitenow
     grantbulletin.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -344,6 +354,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/president.uiowa.edu.git'
         profile: sitenow
+    reports.its.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/reports.its.uiowa.edu.git'
+        profile: sitenow
     ris.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -353,6 +368,11 @@ sites:
         type: custom
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
+        profile: sitenow
+    strength.sports.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/strength.sports.uiowa.edu.git'
         profile: sitenow
     tax.fo.uiowa.edu:
         type: custom

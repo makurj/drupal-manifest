@@ -1,4 +1,9 @@
 sites:
+    advisingcenter.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/advisingcenter.uiowa.edu.git'
+        profile: sitenow
     afr.fo.uiowa.edu:
         type: custom
         site: uiowa703

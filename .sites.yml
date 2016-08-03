@@ -384,6 +384,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/tax.fo.uiowa.edu.git'
         profile: sitenow
+    teach.its.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/teach.its.uiowa.edu.git'
+        profile: sitenow
     theme.uiowa.edu:
         type: custom
         site: uiowa703

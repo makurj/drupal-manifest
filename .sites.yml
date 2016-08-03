@@ -374,6 +374,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/ris.research.uiowa.edu.git'
         profile: sitenow
+    shl.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/shl.uiowa.edu.git'
+        profile: sitenow
     sitenow.uiowa.edu:
         type: custom
         site: uiowa701

@@ -364,6 +364,11 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
         profile: sitenow
+    strength.sports.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/strength.sports.uiowa.edu.git'
+        profile: sitenow
     tax.fo.uiowa.edu:
         type: custom
         site: uiowa703

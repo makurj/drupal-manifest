@@ -299,6 +299,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/now.uiowa.edu.git'
         profile: sitenow
+    nutrition.sports.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/nutrition.sports.uiowa.edu.git'
+        profile: sitenow
     obermann.uiowa.edu:
         type: custom
         site: uiowa703

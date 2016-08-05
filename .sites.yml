@@ -324,6 +324,11 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/oniowa.uiowa.edu.git'
         profile: sitenow
+    opsmanual.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/opsmanual.uiowa.edu.git'
+        profile: sitenow
     outreach.uiowa.edu:
         type: custom
         site: uiowa703

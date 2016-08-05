@@ -1254,3 +1254,8 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    uiowa.edu/sitenow-default-theme:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null

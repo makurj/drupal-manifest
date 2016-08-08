@@ -119,6 +119,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/ehs.research.uiowa.edu.git'
         profile: sitenow
+    engineering.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/engineering.uiowa.edu.git'
     exportcontrols.research.uiowa.edu:
         type: custom
         site: uiowa703

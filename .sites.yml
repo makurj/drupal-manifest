@@ -1264,3 +1264,8 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    uiowa.edu/sitenow-hero-theme:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null

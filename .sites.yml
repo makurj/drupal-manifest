@@ -559,6 +559,10 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    etc.engineering.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
     mie.engineering.uiowa.edu:
         type: standard
         site: uiowa701

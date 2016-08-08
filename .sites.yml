@@ -1273,12 +1273,622 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    uiowa.edu/2015safezone:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/africanamericancouncil:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/afrotc:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/aikido:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ap-purchasing:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/armyrotc:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/assessment:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/audit:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/bands:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/be-remarkable:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/businessmanager:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/businsvc:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/calvin:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/cda:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/celebrationofexcellence:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/cesac:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/cifd:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/cnm:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/coepe:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/collect:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/compliance:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/conflictmanagement:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/cot:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/cpl:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/craniofacialresources:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/crisp:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/critical-incident-plan:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/csw:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/cvrs:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/dce:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/debate:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/diversitychartercommittee:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/drumhawk:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/education-dean-search:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/eforms:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/emeritusfaculty:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/english-unbound:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/enterpriseriskmanagement:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/facultysenate:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/fallgiving:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/familymedresidencypolicymanual:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/fbis:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ficc:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/fipses:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/flares:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/fric:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/friendsofthemicrobiome:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/generalstores:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/gis:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/haa:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/hmb:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/honorarydegrees:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/horn:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/icove:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/icru:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ijcs:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/indiancinema:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/influenza:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/informaticsshowcase:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/intermediatechinesereader:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ionrp:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/iowacancermaps2:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/iowacc:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/iowa-federation:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/iowalatinoconference:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ippl:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ismc:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/itsecurity:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/jmpec:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/koreanprogram:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/laundry:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/law-lutielytle:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/lawnoveldiscussions:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ldg:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/legalclinic:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/lscec:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/manuscript-materiality:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/miki2016:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/mphpracticumpartners:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/mural-film:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/museumstudies:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/nac:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ndt:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/news-release-archives:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/nrcihs:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ombuds:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/pad:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/parent-times-archives:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/pasttense:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/pinyin:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/postsecular-novel:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/riskmanagement:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ruslo:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/sciencefm:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/sciencewritingcontest:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/seru:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/shakespeareiniowa:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/sharedgovernance:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     uiowa.edu/sitenow-default-theme:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
     uiowa.edu/sitenow-hero-theme:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/sitenow-stellar-theme:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/snuc:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/speakersbureau:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/staff:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/statefair:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/statewide-veterans-conference-2014:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/summerdatascience:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/surplus:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/tea:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/thehubbardgroup:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/tristem:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/uiadvise:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/uifirstkiss:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/uifuture:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/uigcc:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/uilatinocouncil:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/uiobl:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/ui-trans-resources:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/undergrad-fellowships:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/university-shared-services:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/uwc:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/voice-academy:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/wise:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    uiowa.edu/yeastdrugs:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile

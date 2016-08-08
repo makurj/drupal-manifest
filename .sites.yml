@@ -269,6 +269,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/itpmo.uiowa.edu.git'
         profile: sitenow
+    its.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/its.uiowa.edu.git'
     itsecurity.uiowa.edu:
         type: custom
         site: uiowa703

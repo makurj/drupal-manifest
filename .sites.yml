@@ -608,6 +608,11 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    buchanan.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     campbell.lab.uiowa.edu:
         type: standard
         site: uiowa701
@@ -776,6 +781,11 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    richerson.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     roar.lab.uiowa.edu:
         type: standard
         site: uiowa701
@@ -828,6 +838,11 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    talman.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     tanas.lab.uiowa.edu:
         type: standard
         site: uiowa701
@@ -872,6 +887,11 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    zaheer.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     zhang.lab.uiowa.edu:
         type: standard
         site: uiowa701

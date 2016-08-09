@@ -1132,6 +1132,11 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    mensvolleyball.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     mindfulatiowa.org.uiowa.edu:
         type: standard
         site: uiowa701

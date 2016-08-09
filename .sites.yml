@@ -1265,6 +1265,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/uiprotolabs.uiowa.edu.git'
         profile: sitenow
+    externships.law.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     uira.org.uiowa.edu:
         type: standard
         site: uiowa701

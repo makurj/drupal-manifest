@@ -279,6 +279,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/itsecurity.uiowa.edu.git'
         profile: sitenow
+    law.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/law.uiowa.edu.git'
     library.law.uiowa.edu:
         type: custom
         site: uiowa703

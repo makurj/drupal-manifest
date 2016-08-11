@@ -549,6 +549,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    transparency.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     uisafe.clas.uiowa.edu:
         type: standard
         site: uiowa701

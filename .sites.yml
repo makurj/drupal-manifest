@@ -1492,6 +1492,26 @@ sites:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
+    davidplowden.studio.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    saxophone.studio.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    trumpet.studio.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    victorianfboos.studio.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     uiowa.edu/2015safezone:
         type: standard
         site: uiowa701

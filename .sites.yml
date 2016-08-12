@@ -679,6 +679,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    cognitive-brain.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     cromwell.lab.uiowa.edu:
         type: standard
         site: uiowa701

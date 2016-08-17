@@ -379,6 +379,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/ovproperations.research.uiowa.edu.git'
         profile: sitenow
+    pathforward.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/pathforward.uiowa.edu.git'
     police.uiowa.edu:
         type: custom
         site: uiowa703

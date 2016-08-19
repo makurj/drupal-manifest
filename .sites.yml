@@ -89,6 +89,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/controller.fo.uiowa.edu.git'
         profile: sitenow
+    desmoines.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/desmoines.uiowa.edu.git'
     dining.uiowa.edu:
         type: custom
         site: uiowa703
@@ -149,6 +154,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/fo.uiowa.edu.git'
         profile: sitenow
+    foriowa.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/foriowa.uiowa.edu.git'
     gao.fo.uiowa.edu:
         type: custom
         site: uiowa703

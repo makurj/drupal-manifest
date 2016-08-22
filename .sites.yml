@@ -429,6 +429,16 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/reports.its.uiowa.edu.git'
         profile: sitenow
+    researcherhandbook.research.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/researcherhandbook.research.uiowa.edu.git'
+    researchpark.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/researchpark.uiowa.edu.git'
     ris.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -509,6 +519,11 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/uiowa.edu.git'
         profile: sitenow
+    uiventures.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/uiventures.uiowa.edu.git'
     vandervelde.studio.uiowa.edu:
         type: custom
         site: uiowa701

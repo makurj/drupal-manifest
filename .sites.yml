@@ -529,6 +529,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/vending.uiowa.edu.git'
         profile: sitenow
+    worklife.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/worklife.uiowa.edu.git'
+        profile: sitenow
     4cast.uiowa.edu:
         type: standard
         site: uiowa701

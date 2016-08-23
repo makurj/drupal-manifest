@@ -1957,6 +1957,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    uiowa.edu/mspd-checkout:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     uiowa.edu/mural-film:
         type: standard
         site: uiowa701

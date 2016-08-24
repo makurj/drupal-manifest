@@ -654,6 +654,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    act-on-health.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     amendt.lab.uiowa.edu:
         type: standard
         site: uiowa701
@@ -753,6 +758,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    fiedorowicz.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     fuentes.lab.uiowa.edu:
         type: standard
         site: uiowa701
@@ -794,6 +804,11 @@ sites:
         profile: sitenow_standard_profile
         git: null
     karandikar.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    kids-hd.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -867,7 +882,17 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    nopoulos.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     outreach.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    parent-child-interaction-therapy.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile

@@ -1627,6 +1627,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    uiowa.edu/assist:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     uiowa.edu/audit:
         type: standard
         site: uiowa701

@@ -2112,11 +2112,6 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
-    uiowa.edu/speakersbureau:
-        type: standard
-        site: uiowa701
-        profile: sitenow_standard_profile
-        git: null
     uiowa.edu/staff:
         type: standard
         site: uiowa701

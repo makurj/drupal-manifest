@@ -1384,6 +1384,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    nasa.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     ncte.org.uiowa.edu:
         type: standard
         site: uiowa701

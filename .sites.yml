@@ -74,6 +74,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cio.uiowa.edu.git'
         profile: sitenow
+    classrooms.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/classrooms.uiowa.edu.git'
     cmrf.research.uiowa.edu:
         type: custom
         site: uiowa703

@@ -1752,6 +1752,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    uiowa.edu/datascience:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     uiowa.edu/dce:
         type: standard
         site: uiowa701

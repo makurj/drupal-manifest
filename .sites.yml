@@ -1309,6 +1309,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    foolsmag.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     ghs.org.uiowa.edu:
         type: standard
         site: uiowa701

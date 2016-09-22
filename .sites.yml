@@ -449,6 +449,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/shl.uiowa.edu.git'
         profile: sitenow
+    chsciowa.org:
+        type: custom
+        site: uiowa702
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/chsciowa.org.git'
     sitenow.uiowa.edu:
         type: custom
         site: uiowa701

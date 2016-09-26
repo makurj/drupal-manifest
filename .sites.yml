@@ -194,6 +194,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/hancher.uiowa.edu.git'
         profile: sitenow
+    hawkeyespaces.uiowa.edu:
+        type: custom
+        site: uiowa703
+        git: 'git@github.com:ITS-UofIowa/hawkeyespaces.uiowa.edu.git'
+        profile: sitenow
     honors.uiowa.edu:
         type: custom
         site: uiowa703

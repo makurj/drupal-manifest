@@ -184,14 +184,6 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/grantwood.uiowa.edu.git'
         profile: sitenow
-    hawkeyespaces.uiowa.edu:
-        type: custom
-        site: uiowa702
-        profile: sitenow
-        git: 'git@github.com:ITS-UofIowa/hawkeyespaces.uiowa.edu.git'
-        routes:
-            - hawkeyespaces.com
-            - www.hawkeyespaces.com
     hawktools.uiowa.edu:
         type: custom
         site: uiowa701
@@ -322,13 +314,6 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/maps.uiowa.edu.git'
         profile: sitenow
-    medforms.sports.uiowa.edu:
-        type: custom
-        site: uiowa702
-        profile: sitenow
-        git: 'git@github.com:ITS-UofIowa/medforms.sports.uiowa.edu.git'
-        routes:
-            - medforms.hawkeyesports.com
     mnh.uiowa.edu:
         type: custom
         site: uiowa703

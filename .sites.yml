@@ -1524,6 +1524,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    translateiowa.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     trihawks.org.uiowa.edu:
         type: standard
         site: uiowa701

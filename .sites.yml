@@ -1364,6 +1364,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    imarc.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     iowawomensclubvolleyball.org.uiowa.edu:
         type: standard
         site: uiowa701

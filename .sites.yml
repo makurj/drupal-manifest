@@ -461,6 +461,7 @@ sites:
         git: null
         type: standard
     brandon.uiowa.edu:
+        type: standard
         site: uiowa702
         profile: sitenow_standard_profile
         git: null

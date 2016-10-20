@@ -851,6 +851,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    han.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     harty.lab.uiowa.edu:
         type: standard
         site: uiowa701

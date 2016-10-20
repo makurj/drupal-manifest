@@ -885,6 +885,16 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    michaelson.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    morl.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     mullins.lab.uiowa.edu:
         type: standard
         site: uiowa701
@@ -940,6 +950,16 @@ sites:
         profile: sitenow_standard_profile
         git: null
     petersen.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    pieper.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    potash.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -1018,6 +1038,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    shinozaki.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     sigmund.lab.uiowa.edu:
         type: standard
         site: uiowa701
@@ -1029,6 +1054,11 @@ sites:
         profile: sitenow_standard_profile
         git: null
     smubeen.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    stevens.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
@@ -1058,6 +1088,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    waldschmidt.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     wallrath.lab.uiowa.edu:
         type: standard
         site: uiowa701
@@ -1068,12 +1103,27 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    wassink.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     weeks.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
     weiss.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    wemmie.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
+    willour.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile

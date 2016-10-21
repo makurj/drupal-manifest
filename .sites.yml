@@ -1522,6 +1522,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    psp.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     roco.org.uiowa.edu:
         type: standard
         site: uiowa701

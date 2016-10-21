@@ -1457,6 +1457,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    mapps.org.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     medicus.org.uiowa.edu:
         type: standard
         site: uiowa701

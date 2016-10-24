@@ -677,7 +677,7 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
-    act-on-health.lab.uiowa.edu:
+    actonhealth.lab.uiowa.edu:
         type: standard
         site: uiowa701
         profile: sitenow_standard_profile

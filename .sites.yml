@@ -495,6 +495,11 @@ sites:
         site: uiowa702
         profile: sitenow
         git: 'git@github.com:ITS-UofIowa/chsciowa.org.git'
+    geriatricpain.org:
+        type: custom
+        site: uiowa702
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/geriatricpain.org.git'
     se.iowastem.org:
         type: standard
         site: uiowa702

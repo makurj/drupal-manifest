@@ -261,8 +261,6 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/hso.research.uiowa.edu.git'
         profile: sitenow
-        redirects:
-            - www.hso.research.uiowa.edu
     hts.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -426,8 +424,6 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/ovproperations.research.uiowa.edu.git'
         profile: sitenow
-        redirects:
-            - www.ovproperations.research.uiowa.edu
     pathforward.uiowa.edu:
         type: custom
         site: uiowa703
@@ -448,8 +444,6 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/rcouncil.research.uiowa.edu.git'
         profile: sitenow
-        redirects:
-            - www.rcouncil.research.uiowa.edu
     recserv.uiowa.edu:
         type: custom
         site: uiowa703

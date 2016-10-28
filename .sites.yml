@@ -585,7 +585,7 @@ sites:
         git: 'git@github.com:ITS-UofIowa/uiowa.edu.git'
         profile: sitenow
         redirects:
-            -www.uiowa.edu
+            - www.uiowa.edu
     uiventures.uiowa.edu:
         type: custom
         site: uiowa703

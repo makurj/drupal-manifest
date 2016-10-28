@@ -490,16 +490,22 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/shl.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.shl.uiowa.edu
     chsciowa.org:
         type: custom
         site: uiowa702
         profile: sitenow
         git: 'git@github.com:ITS-UofIowa/chsciowa.org.git'
+        redirects:
+            - www.chsciowa.org
     geriatricpain.org:
         type: custom
         site: uiowa702
         profile: sitenow
         git: 'git@github.com:ITS-UofIowa/geriatricpain.org.git'
+        redirects:
+            - www.geriatricpain.org
     se.iowastem.org:
         type: standard
         site: uiowa702
@@ -578,6 +584,8 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/uiowa.edu.git'
         profile: sitenow
+        redirects:
+            -www.uiowa.edu
     uiventures.uiowa.edu:
         type: custom
         site: uiowa703

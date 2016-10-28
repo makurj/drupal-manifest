@@ -506,13 +506,6 @@ sites:
         profile: sitenow_standard_profile
         git: null
         type: standard
-    brandon.uiowa.edu:
-        type: standard
-        site: uiowa702
-        profile: sitenow_standard_profile
-        git: null
-        redirects:
-            - brandon2.uiowa.edu
     sitenow.uiowa.edu:
         type: custom
         site: uiowa701

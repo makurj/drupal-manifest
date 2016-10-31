@@ -54,6 +54,8 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/careers.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.careers.uiowa.edu
     catering.uiowa.edu:
         type: custom
         site: uiowa703
@@ -69,16 +71,22 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cgrer.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.cgrer.uiowa.edu
     cio.uiowa.edu:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/cio.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.cio.uiowa.edu
     classrooms.uiowa.edu:
         type: custom
         site: uiowa703
         profile: sitenow
         git: 'git@github.com:ITS-UofIowa/classrooms.uiowa.edu.git'
+        redirects:
+            - www.classrooms.uiowa.edu
     cmrf.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -109,16 +117,13 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/discover.research.uiowa.edu.git'
         profile: sitenow
-    distance.uiowa.edu:
-        type: custom
-        site: uiowa703
-        git: 'git@github.com:ITS-UofIowa/distance.uiowa.edu.git'
-        profile: sitenow
     diversity.uiowa.edu:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/diversity.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.diversity.uiowa.edu
     dsp.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -129,12 +134,14 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/education.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.education.uiowa.edu
     ehs.research.uiowa.edu:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/ehs.research.uiowa.edu.git'
         profile: sitenow
-    engineering.uiowa.edu:
+    www.engineering.uiowa.edu:
         type: custom
         site: uiowa703
         profile: sitenow
@@ -159,6 +166,8 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/fo.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.fo.uiowa.edu
     foriowa.uiowa.edu:
         type: custom
         site: uiowa703
@@ -199,6 +208,8 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/hancher.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.hancher.uiowa.edu
     hawkeyespaces.uiowa.edu:
         type: custom
         site: uiowa703
@@ -214,6 +225,8 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/housing.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.housing.uiowa.edu
     housing.uiowa.edu/uhd-admin:
         type: custom
         site: uiowa703
@@ -224,11 +237,15 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/hpc.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.hpc.uiowa.edu
     hr.uiowa.edu:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/hr.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.hr.uiowa.edu
     hrmsf.research.uiowa.edu:
         type: custom
         site: uiowa703
@@ -294,6 +311,8 @@ sites:
         site: uiowa703
         profile: sitenow
         git: 'git@github.com:ITS-UofIowa/its.uiowa.edu.git'
+        redirects:
+            - www.its.uiowa.edu
     itsecurity.uiowa.edu:
         type: custom
         site: uiowa703
@@ -304,6 +323,8 @@ sites:
         site: uiowa703
         profile: sitenow
         git: 'git@github.com:ITS-UofIowa/law.uiowa.edu.git'
+        redirects:
+            - www.law.uiowa.edu
     library.law.uiowa.edu:
         type: custom
         site: uiowa703
@@ -319,6 +340,8 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/magazine.education.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.magazine.education.uiowa.edu
     maps.uiowa.edu:
         type: custom
         site: uiowa703
@@ -354,6 +377,8 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/obermann.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.obermann.uiowa.edu
     oldcap.uiowa.edu:
         type: custom
         site: uiowa703
@@ -419,16 +444,22 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/recserv.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.recserv.uiowa.edu
     registrar.uiowa.edu:
         type: custom
         site: uiowa703
         profile: sitenow
         git: 'git@github.com:ITS-UofIowa/registrar.uiowa.edu.git'
+        redirects:
+            - www.registrar.uiowa.edu
     president.uiowa.edu:
         type: custom
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/president.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.president.uiowa.edu
     reports.its.uiowa.edu:
         type: custom
         site: uiowa703
@@ -454,29 +485,28 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/shl.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.shl.uiowa.edu
     chsciowa.org:
         type: custom
         site: uiowa702
         profile: sitenow
         git: 'git@github.com:ITS-UofIowa/chsciowa.org.git'
+        redirects:
+            - www.chsciowa.org
     geriatricpain.org:
         type: custom
         site: uiowa702
         profile: sitenow
         git: 'git@github.com:ITS-UofIowa/geriatricpain.org.git'
+        redirects:
+            - www.geriatricpain.org
     se.iowastem.org:
         type: standard
         site: uiowa702
         profile: sitenow_standard_profile
         git: null
         type: standard
-    brandon.uiowa.edu:
-        type: standard
-        site: uiowa702
-        profile: sitenow_standard_profile
-        git: null
-        redirects:
-            - brandon2.uiowa.edu
     sitenow.uiowa.edu:
         type: custom
         site: uiowa701
@@ -517,6 +547,8 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/tippie.uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.tippie.uiowa.edu
     transportation.uiowa.edu:
         type: custom
         site: uiowa703
@@ -547,6 +579,9 @@ sites:
         site: uiowa701
         git: 'git@github.com:ITS-UofIowa/uiowa.edu.git'
         profile: sitenow
+        redirects:
+            - www.uiowa.edu
+            - frontier.uiowa.edu
     uiventures.uiowa.edu:
         type: custom
         site: uiowa703
@@ -577,6 +612,8 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+        redirects:
+            - www.cheec.uiowa.edu
     distance.uiowa.edu:
         type: standard
         site: uiowa701
@@ -597,6 +634,8 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+        redirects:
+            - www.interprofessional.uiowa.edu
     iowaideas.uiowa.edu:
         type: standard
         site: uiowa701

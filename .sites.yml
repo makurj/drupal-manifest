@@ -117,11 +117,6 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/discover.research.uiowa.edu.git'
         profile: sitenow
-    distance.uiowa.edu:
-        type: custom
-        site: uiowa703
-        git: 'git@github.com:ITS-UofIowa/distance.uiowa.edu.git'
-        profile: sitenow
     diversity.uiowa.edu:
         type: custom
         site: uiowa703

@@ -506,7 +506,6 @@ sites:
         site: uiowa702
         profile: sitenow_standard_profile
         git: null
-        type: standard
     sitenow.uiowa.edu:
         type: custom
         site: uiowa701

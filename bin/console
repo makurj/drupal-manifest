@@ -1,0 +1,26 @@
+#!/usr/bin/env php
+<?php
+
+use Symfony\Component\Console\Application;
+use Symfony\Component\Yaml\Command\LintCommand;
+
+set_time_limit(0);
+set_error_handler('tmpHandler');
+
+$loader = require __DIR__ . '/../vendor/autoload.php';
+
+$command = new LintCommand();
+$application = new Application();
+$application->add($command);
+$application->run();
+
+// @todo: Remove this after symfony/yaml:4 release.
+// @see: https://symfony.com/blog/new-in-symfony-3-2-yaml-deprecations
+function tmpHandler($errno, $errstr, $errfile, $errline)
+{
+    if (basename($errfile) == 'Parser.php') {
+        throw new \Exception($errstr, 1);
+    }
+
+    return false;
+}

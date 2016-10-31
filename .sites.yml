@@ -586,6 +586,7 @@ sites:
         profile: sitenow
         redirects:
             - www.uiowa.edu
+            - frontier.uiowa.edu
     uiventures.uiowa.edu:
         type: custom
         site: uiowa703

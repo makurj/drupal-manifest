@@ -8,6 +8,8 @@
     }
   ],
   "require": {
-    "j13k/yaml-lint": "^1.0"
-  }
+    "symfony/yaml": "^3",
+    "symfony/console": "^3.1"
+  },
+  "minimum-stability": "beta"
 }

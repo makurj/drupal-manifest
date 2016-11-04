@@ -809,6 +809,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    dna-sandbox.lab.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     econsent.lab.uiowa.edu:
         type: standard
         site: uiowa701

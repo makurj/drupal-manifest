@@ -24,11 +24,6 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/announcements.research.uiowa.edu.git'
         profile: sitenow
-    api.myscope.uiowa.edu:
-        type: custom
-        site: uiowa703
-        profile: sitenow
-        git: 'git@github.com:ITS-UofIowa/api.myscope.uiowa.edu.git'
     archaeology.uiowa.edu:
         type: custom
         site: uiowa703

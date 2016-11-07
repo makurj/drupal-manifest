@@ -1,5 +1,5 @@
 sites:
-    site: uiowa703
+    uiowa703:
         advisingcenter.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/advisingcenter.uiowa.edu.git'
@@ -448,7 +448,7 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/worklife.uiowa.edu.git'
             profile: sitenow
-    site: uiowa702
+    uiowa702:
         chsciowa.org:
             type: custom
             profile: sitenow
@@ -465,7 +465,7 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-    site: uiowa701
+    uiowa701:
         uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/uiowa.edu.git'

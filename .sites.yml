@@ -39,6 +39,11 @@ sites:
         site: uiowa703
         git: 'git@github.com:ITS-UofIowa/artshare.uiowa.edu.git'
         profile: sitenow
+    brand.uiowa.edu:
+        type: custom
+        site: uiowa703
+        profile: sitenow
+        git: 'git@github.com:ITS-UofIowa/brand.uiowa.edu.git'
     cam.fo.uiowa.edu:
         type: custom
         site: uiowa703

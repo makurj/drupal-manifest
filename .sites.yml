@@ -501,7 +501,7 @@ sites:
         git: 'git@github.com:ITS-UofIowa/geriatricpain.org.git'
         redirects:
             - www.geriatricpain.org
-     www.iowajpec.org:
+    www.iowajpec.org:
         type: custom
         site: uiowa702
         profile: sitenow

@@ -1224,6 +1224,11 @@ sites:
         site: uiowa701
         profile: sitenow_standard_profile
         git: null
+    empirical.law.uiowa.edu:
+        type: standard
+        site: uiowa701
+        profile: sitenow_standard_profile
+        git: null
     fab.law.uiowa.edu:
         type: standard
         site: uiowa701

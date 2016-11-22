@@ -1395,6 +1395,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/staff
         uiowa.edu/statefair:
             type: standard
             profile: sitenow_standard_profile

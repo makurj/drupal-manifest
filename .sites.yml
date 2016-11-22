@@ -517,8 +517,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-            
-            
         4cast.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -531,6 +529,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        acm.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         actonhealth.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -539,11 +541,55 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        ailp.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        alphaupsilonlambdas.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         amendt.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        amnesty.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         anthony.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        anthropology.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        apalsa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        apo.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        arh.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        arthistory.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        asa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        asauiowa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        badminton.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -555,7 +601,19 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        bars.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         baumbach.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        blackart.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        blsa.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -579,11 +637,19 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        campadventure.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         campbell.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
         cbe.engineering.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cec.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -601,6 +667,18 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        china.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        clp.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cmaedu.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         cognitive-brain.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -609,7 +687,19 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        cssa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cycling.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null  
         cytogenetics.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        davidplowden.studio.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -621,6 +711,14 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        designui.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        dic.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         distance.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -629,11 +727,19 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        drupal.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         ece.engineering.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
         econsent.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        edoncampus.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -649,7 +755,35 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        english-society.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        epx.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         etc.engineering.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        evaluation.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        externships.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        fab.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        faith.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        fcc.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -658,6 +792,18 @@ sites:
             profile: sitenow_standard_profile
             git: null
         fiedorowicz.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        foodpantry.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        foolsmag.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        frrbp.medicine.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -670,6 +816,14 @@ sites:
             profile: sitenow_standard_profile
             git: null
         geyer.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ghs.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        gradmed.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -697,10 +851,46 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        hawkeyeoptimistchapter.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         hawktools.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/hawktools.uiowa.edu.git'
             profile: sitenow
+        helpinghawks.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        herkycares.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        i3hsa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ibl.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ieee.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        igc.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ilr.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        imarc.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         interprofessional.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -708,6 +898,18 @@ sites:
             redirects:
                 - www.interprofessional.uiowa.edu
         iowaideas.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        iowawomensclubvolleyball.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        isba.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        isea.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -719,7 +921,19 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        itsonus.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         janz.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        jcl.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        jgrj.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -743,7 +957,15 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        kusa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         lal.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        lgbtqsf.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -767,6 +989,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        mapps.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         maria-spies.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -775,11 +1001,23 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        medicus.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        mensvolleyball.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         michaelson.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
         mie.engineering.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        mindfulatiowa.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -795,11 +1033,35 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        mssui.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         narayanan.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        nasa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ncte.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         neuroerg.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        nhlp.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        nicaragua.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        nofrills2015.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -815,6 +1077,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        ocf.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         onefinance.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -823,7 +1089,19 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/oniowa.uiowa.edu.git'
             profile: sitenow
+        ostem.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        outlaws.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         outreach.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        owlss.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -851,6 +1129,14 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        pharmacy.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        pls.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         potash.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -867,30 +1153,22 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        productdesignstudio.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        pso.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        psp.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         pufall.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
-            git: null    
-        sitenow.uiowa.edu:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
-            profile: sitenow
-        techforum.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
             git: null
-        transparency.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uisafe.clas.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        vandervelde.studio.uiowa.edu:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/vandervelde.studio.uiowa.edu.git'
-            profile: sitenow
         qi.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -903,6 +1181,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        roco.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         roghair.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -912,6 +1194,18 @@ sites:
             profile: sitenow_standard_profile
             git: null
         roman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        rowing.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        rugby.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        runningc.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -931,6 +1225,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        saxophone.studio.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         schnieders.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -943,6 +1241,14 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        shpe.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        sigmaalphaiota.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         sigmund.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -951,11 +1257,47 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        sinfonia.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        sipe.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        sitenow.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
+            profile: sitenow
+        sls.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         smubeen.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        soundtoword16.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        spectrumui.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        staff.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        star.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         stevens.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        studentsindesign.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -971,11 +1313,103 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        techforum.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        tkd.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        tlcp.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        translateiowa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        transparency.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         traumasupportstudy.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        trihawks.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        trumpet.studio.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        turkish.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uibestbuddies.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiems.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uienvironmentalcoalition.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uimsa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uinasa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uip.pharmacy.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiphotography.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uira.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uirobotics.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uisafe.clas.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uisug.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uitransalliance.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        vandervelde.studio.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/vandervelde.studio.uiowa.edu.git'
+            profile: sitenow
         varga.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        veterans.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        victorianfboos.studio.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1019,6 +1453,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        womensicehockey.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         yahr.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1028,454 +1466,6 @@ sites:
             profile: sitenow_standard_profile
             git: null
         zhang.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        ailp.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        clp.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        fab.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        ibl.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        igc.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        ilr.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        isba.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        jcl.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        jgrj.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        nhlp.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        outlaws.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        owlss.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        staff.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        tlcp.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        frrbp.medicine.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        aac.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        aaup.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        acm.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        alphaupsilonlambdas.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        amnesty.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        anthropology.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        apalsa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        apo.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        arh.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        arthistory.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        asa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        asauiowa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        badminton.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        bars.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        blackart.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        blsa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        campadventure.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        cec.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        china.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        cmaedu.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        cssa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        cycling.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        designui.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        dic.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        drupal.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        edoncampus.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        english-society.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        epx.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        evaluation.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        faith.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        fcc.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        foodpantry.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        foolsmag.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        ghs.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        gradmed.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        hawkeyeoptimistchapter.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        helpinghawks.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        herkycares.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        i3hsa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        ieee.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        imarc.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        iowawomensclubvolleyball.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        isea.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        itsonus.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        kusa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        lgbtqsf.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        mapps.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        medicus.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        mensvolleyball.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        mindfulatiowa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        mssui.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        nasa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        ncte.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        nicaragua.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        nofrills2015.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        ocf.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        ostem.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        pharmacy.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        pls.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        productdesignstudio.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        pso.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        psp.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        roco.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        rowing.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        rugby.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        runningc.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        shpe.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        sigmaalphaiota.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        sinfonia.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        sipe.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        sls.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        soundtoword16.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        spectrumui.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        star.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        studentsindesign.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        tkd.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        translateiowa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        trihawks.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        turkish.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uibestbuddies.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uiems.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uienvironmentalcoalition.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uimsa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uinasa.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uiphotography.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        externships.law.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uira.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uirobotics.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uisug.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uitransalliance.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        veterans.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        womensicehockey.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        uip.pharmacy.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        davidplowden.studio.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        saxophone.studio.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        trumpet.studio.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        victorianfboos.studio.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

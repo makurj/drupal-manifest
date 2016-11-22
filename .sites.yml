@@ -702,7 +702,7 @@ sites:
         cycling.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
-            git: null  
+            git: null
         cytogenetics.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

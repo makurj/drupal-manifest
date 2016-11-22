@@ -11,426 +11,638 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/2015safezone
         uiowa.edu/africanamericancouncil:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/africanamericancouncil
         uiowa.edu/afrotc:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/afrotc
         uiowa.edu/aikido:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/aikido
         uiowa.edu/ap-purchasing:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ap-purchasing
         uiowa.edu/armyrotc:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/armyrotc
         uiowa.edu/assessment:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/assessment
         uiowa.edu/assist:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/assist
         uiowa.edu/audit:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/audit
         uiowa.edu/bands:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/bands
         uiowa.edu/be-remarkable:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/be-remarkable
         uiowa.edu/businessmanager:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/businessmanager
         uiowa.edu/businsvc:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/businsvc
         uiowa.edu/calvin:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/calvin
         uiowa.edu/cda:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/cda
         uiowa.edu/celebrationofexcellence:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/celebrationofexcellence
         uiowa.edu/cesac:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/cesac
         uiowa.edu/cifd:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/cifd
         uiowa.edu/cnm:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/cnm
         uiowa.edu/coepe:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/coepe
         uiowa.edu/collect:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/collect
         uiowa.edu/compliance:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/compliance
         uiowa.edu/conflictmanagement:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/conflictmanagement
         uiowa.edu/cot:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/cot
         uiowa.edu/cpl:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/cpl
         uiowa.edu/craniofacialresources:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/craniofacialresources
         uiowa.edu/crisp:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/crisp
         uiowa.edu/critical-incident-plan:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/critical-incident-plan
         uiowa.edu/csw:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/csw
         uiowa.edu/cvrs:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/cvrs
         uiowa.edu/datascience:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/datascience
         uiowa.edu/dce:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/dce
         uiowa.edu/debate:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/debate
         uiowa.edu/diversitychartercommittee:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/diversitychartercommittee
         uiowa.edu/drumhawk:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/drumhawk
         uiowa.edu/education-dean-search:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/education-dean-search
         uiowa.edu/eforms:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/eforms
         uiowa.edu/emeritusfaculty:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/emeritusfaculty
         uiowa.edu/english-unbound:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/english-unbound
         uiowa.edu/enterpriseriskmanagement:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/enterpriseriskmanagement
         uiowa.edu/facultysenate:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/facultysenate
         uiowa.edu/fallgiving:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/fallgiving
         uiowa.edu/familymedresidencypolicymanual:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/familymedresidencypolicymanual
         uiowa.edu/fbis:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/fbis
         uiowa.edu/ficc:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ficc
         uiowa.edu/fipses:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/fipses
         uiowa.edu/flares:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/flares
         uiowa.edu/fric:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/fric
         uiowa.edu/friendsofthemicrobiome:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/friendsofthemicrobiome
         uiowa.edu/generalstores:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/generalstores
         uiowa.edu/gis:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/gis
         uiowa.edu/haa:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/haa
         uiowa.edu/hmb:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/hmb
         uiowa.edu/honorarydegrees:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/honorarydegrees
         uiowa.edu/horn:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/horn
         uiowa.edu/icove:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/icove
         uiowa.edu/icru:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/icru
         uiowa.edu/ijcs:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ijcs
         uiowa.edu/indiancinema:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/indiancinema
         uiowa.edu/influenza:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/influenza
         uiowa.edu/informaticsshowcase:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/informaticsshowcase
         uiowa.edu/intermediatechinesereader:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/intermediatechinesereader
         uiowa.edu/ionrp:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ionrp
         uiowa.edu/iowacancermaps2:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/iowacancermaps2
         uiowa.edu/iowacc:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/iowacc
         uiowa.edu/iowa-federation:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/iowa-federation
         uiowa.edu/iowalatinoconference:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/iowalatinoconference
         uiowa.edu/ippl:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ippl
         uiowa.edu/ismc:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ismc
         uiowa.edu/itsecurity:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/itsecurity
         uiowa.edu/jmpec:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/jmpec
         uiowa.edu/koreanprogram:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/koreanprogram
         uiowa.edu/laundry:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/laundry
         uiowa.edu/law-lutielytle:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/law-lutielytle
         uiowa.edu/lawnoveldiscussions:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/lawnoveldiscussions
         uiowa.edu/ldg:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ldg
         uiowa.edu/legalclinic:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/legalclinic
         uiowa.edu/lscec:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/lscec
         uiowa.edu/manuscript-materiality:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/manuscript-materiality
         uiowa.edu/miki2016:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/miki2016
         uiowa.edu/mphpracticumpartners:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/mphpracticumpartners
         uiowa.edu/mspd-checkout:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/mspd-checkout
         uiowa.edu/mural-film:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/mural-film
         uiowa.edu/museumstudies:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/museumstudies
         uiowa.edu/nac:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/nac
         uiowa.edu/ndt:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ndt
         uiowa.edu/news-release-archives:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/news-release-archives
         uiowa.edu/nrcihs:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/nrcihs
         uiowa.edu/nursing-dean-search:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/nursing-dean-search
         uiowa.edu/ombuds:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ombuds
         uiowa.edu/pad:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/pad
         uiowa.edu/parent-times-archives:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/parent-times-archives
         uiowa.edu/pasttense:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/pasttense
         uiowa.edu/pinyin:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/pinyin
         uiowa.edu/postsecular-novel:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/postsecular-novel
         uiowa.edu/riskmanagement:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/riskmanagement
         uiowa.edu/ruslo:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ruslo
         uiowa.edu/sciencefm:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/sciencefm
         uiowa.edu/sciencewritingcontest:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/sciencewritingcontest
         uiowa.edu/seru:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/seru
         uiowa.edu/shakespeareiniowa:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/shakespeareiniowa
         uiowa.edu/sharedgovernance:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/sharedgovernance
         uiowa.edu/sitenow-default-theme:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/sitenow-default-theme
         uiowa.edu/sitenow-hero-theme:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/sitenow-hero-theme
         uiowa.edu/sitenow-stellar-theme:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/sitenow-stellar-theme
         uiowa.edu/snuc:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/snuc
         uiowa.edu/staff:
             type: standard
             profile: sitenow_standard_profile
@@ -441,82 +653,122 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/statefair
         uiowa.edu/statewide-veterans-conference-2014:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/statewide-veterans-conference-2014
         uiowa.edu/summerdatascience:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/summerdatascience
         uiowa.edu/surplus:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/surplus
         uiowa.edu/tea:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/tea
         uiowa.edu/thehubbardgroup:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/thehubbardgroup
         uiowa.edu/tristem:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/tristem
         uiowa.edu/uiadvise:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/uiadvise
         uiowa.edu/uifirstkiss:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/uifirstkiss
         uiowa.edu/uifuture:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/uifuture
         uiowa.edu/uigcc:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/uigcc
         uiowa.edu/uilatinocouncil:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/uilatinocouncil
         uiowa.edu/uiobl:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/uiobl
         uiowa.edu/ui-trans-resources:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ui-trans-resources
         uiowa.edu/undergrad-fellowships:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/undergrad-fellowships
         uiowa.edu/university-shared-services:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/university-shared-services
         uiowa.edu/uwc:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/uwc
         uiowa.edu/voice-academy:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/voice-academy
         uiowa.edu/wise:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/wise
         uiowa.edu/yeastdrugs:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/yeastdrugs
         4cast.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -702,7 +954,7 @@ sites:
         cycling.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
-            git: null  
+            git: null
         cytogenetics.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1687,6 +1939,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/housing.uiowa.edu.uhd-admin.git'
             profile: sitenow
+            redirects:
+                - www.housing.uiowa.edu/uhd-admin
         hpc.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/hpc.uiowa.edu.git'

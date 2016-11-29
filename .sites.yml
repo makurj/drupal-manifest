@@ -1881,6 +1881,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/fa.fo.uiowa.edu.git'
             profile: sitenow
+        facultysupport.distance.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/facultysupport.distance.uiowa.edu.git'
         financialaid.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/financialaid.uiowa.edu.git'

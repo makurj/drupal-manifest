@@ -2195,10 +2195,6 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/uc.uiowa.edu.git'
             profile: sitenow
-        uiprotolabs.uiowa.edu:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/uiprotolabs.uiowa.edu.git'
-            profile: sitenow
         transfer.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/transfer.uiowa.edu.git'

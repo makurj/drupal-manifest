@@ -1193,6 +1193,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        jfinley-sandbox.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         jgrj.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

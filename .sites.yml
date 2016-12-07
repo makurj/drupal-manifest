@@ -469,6 +469,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/legalclinic
+        uiowa.edu/lift:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/lscec:
             type: standard
             profile: sitenow_standard_profile
@@ -943,6 +947,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        cpl.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         cromwell.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1193,6 +1201,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        jfinley-sandbox.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         jgrj.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1278,6 +1290,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         mindfulatiowa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        moore.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1726,6 +1742,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         zhang.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        zhao.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

@@ -1782,10 +1782,6 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iowareadingresearch.org.git'
             redirects:
                 - www.iowareadingresearch.org
-        se.iowastem.org:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
     uiowa703:
         advisingcenter.uiowa.edu:
             type: custom

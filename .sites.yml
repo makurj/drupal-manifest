@@ -1770,6 +1770,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/geriatricpain.org.git'
             redirects:
                 - www.geriatricpain.org
+        iexplorestem.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iexplorestem.org.git'
+            redirects:
+                - www.iexplorestem.org
         www.iowajpec.org:
             type: custom
             profile: sitenow

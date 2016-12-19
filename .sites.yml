@@ -1770,12 +1770,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/geriatricpain.org.git'
             redirects:
                 - www.geriatricpain.org
-        humanitiesiowa.org:
+        www.humanitiesiowa.org:
             type: standard
             profile: sitenow_standard_profile
             git: null
             redirects:
-                - www.humanitiesiowa.org
+                - humanitiesiowa.org
         iexplorestem.org:
             type: custom
             profile: sitenow

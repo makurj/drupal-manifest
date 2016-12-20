@@ -1782,6 +1782,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iexplorestem.org.git'
             redirects:
                 - www.iexplorestem.org
+        iowahumanrights.org:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.iowahumanrights.org
         www.iowajpec.org:
             type: custom
             profile: sitenow

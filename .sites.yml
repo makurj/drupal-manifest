@@ -2163,6 +2163,12 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/pathforward.uiowa.edu.git'
+        pharmacy.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/pharmacy.uiowa.edu.git'
+            redirects:
+                - www.pharmacy.uiowa.edu
         police.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/police.uiowa.edu.git'

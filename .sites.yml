@@ -921,6 +921,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        chauhan.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         cheec.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

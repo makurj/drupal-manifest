@@ -1237,6 +1237,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        laborcenter.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         lal.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

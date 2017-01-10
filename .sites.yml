@@ -885,6 +885,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        boes.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         bonthius.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

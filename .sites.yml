@@ -1721,6 +1721,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        wahls.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         waldschmidt.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

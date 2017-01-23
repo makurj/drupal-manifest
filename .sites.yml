@@ -349,6 +349,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/icru
+        uiowa.edu/igem:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/ijcs:
             type: standard
             profile: sitenow_standard_profile
@@ -1265,6 +1269,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        london.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         lynda.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/lynda.uiowa.edu.git'
@@ -1646,6 +1654,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         trumpet.studio.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        turek.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

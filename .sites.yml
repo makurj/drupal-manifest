@@ -1205,6 +1205,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        itmaturitymodels.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         itsonus.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -1533,6 +1533,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        sah.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         salem.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

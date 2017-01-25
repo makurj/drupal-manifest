@@ -425,6 +425,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/ismc
+        uiowa.edu/iswfestival:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/itsecurity:
             type: standard
             profile: sitenow_standard_profile

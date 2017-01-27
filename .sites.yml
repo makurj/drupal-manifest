@@ -685,6 +685,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/surplus
+        uiowa.edu/tamil:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/tea:
             type: standard
             profile: sitenow_standard_profile

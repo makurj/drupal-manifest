@@ -235,6 +235,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/emeritusfaculty
+        uiowa.edu/english-internships:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/english-unbound:
             type: standard
             profile: sitenow_standard_profile
@@ -685,6 +689,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/surplus
+        uiowa.edu/tamil:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/tea:
             type: standard
             profile: sitenow_standard_profile

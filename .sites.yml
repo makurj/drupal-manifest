@@ -1151,6 +1151,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        haskell.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         hawkalert.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

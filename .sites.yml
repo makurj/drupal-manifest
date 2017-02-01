@@ -1848,6 +1848,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/chsciowa.org.git'
             redirects:
                 - www.chsciowa.org
+                - chscia.org
+                - www.chscia.org
+                - childhealthspecialtyclinics.org
+                - www.childhealthspecialtyclinics.org
         geriatricpain.org:
             type: custom
             profile: sitenow

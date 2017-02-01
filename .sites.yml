@@ -647,6 +647,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/sitenow-hero-theme
+        uiowa.edu/sitenow-lab-theme:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/sitenow-stellar-theme:
             type: standard
             profile: sitenow_standard_profile
@@ -1144,6 +1148,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         harty.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        haskell.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

@@ -1769,10 +1769,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        ukchoralcomposers.studio.uiowa.edu:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/ukchoralcomposers.studio.uiowa.edu.git'
-            profile: sitenow
         vandervelde.studio.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/vandervelde.studio.uiowa.edu.git'

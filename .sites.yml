@@ -1849,6 +1849,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        yorek.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         zaheer.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2403,7 +2407,3 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/worklife.uiowa.edu.git'
             profile: sitenow
-        yorek.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null

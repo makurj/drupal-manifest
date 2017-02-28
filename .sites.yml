@@ -909,6 +909,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        bishop.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         blackart.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

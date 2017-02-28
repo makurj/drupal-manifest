@@ -885,6 +885,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        au.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         badminton.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

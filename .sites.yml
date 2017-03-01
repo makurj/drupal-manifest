@@ -2433,3 +2433,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/worklife.uiowa.edu.git'
             profile: sitenow
+    uihealthcaresignage:
+        signage.uihealthcare.org:
+            type: custom
+            profile: signage
+            git: 'git@github.com:ITS-UofIowa/signage.uihealthcare.org.git'
+            dev-uri: dev.signage.uihealthcare.org
+            stage-uri: stage.signage.uihealthcare.org

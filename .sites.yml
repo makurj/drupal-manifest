@@ -1215,7 +1215,7 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        ichm.uiowa.edu:
+        icmh.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

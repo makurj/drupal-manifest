@@ -1932,6 +1932,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iowareadingresearch.org.git'
             redirects:
                 - www.iowareadingresearch.org
+        jacobsoninstitute.org:
+            type: custom
+            profile: sitenow
+            git: 'https://github.com/ITS-UofIowa/jacobsoninstitute.org.git'
+            redirects:
+                - www.jacobsoninstitute.org  
         pappajohnentrepreneurialventurecompetition.com:
             type: custom
             profile: sitenow
@@ -2220,13 +2226,7 @@ sites:
         itsecurity.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/itsecurity.uiowa.edu.git'
-            profile: sitenow
-        jacobsoninstitute.org:
-            type: custom
-            profile: sitenow
-            git: 'https://github.com/ITS-UofIowa/jacobsoninstitute.org.git'
-            redirects:
-                - www.jacobsoninstitute.org   
+            profile: sitenow 
         law.uiowa.edu:
             type: custom
             profile: sitenow

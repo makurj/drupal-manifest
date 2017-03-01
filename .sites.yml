@@ -885,6 +885,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        au.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         badminton.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -902,6 +906,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         baumbach.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        bishop.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1012,6 +1020,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         davies.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        dayal.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1200,6 +1212,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         ibl.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ichm.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -2205,6 +2221,12 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/itsecurity.uiowa.edu.git'
             profile: sitenow
+        jacobsoninstitute.org:
+            type: custom
+            profile: sitenow
+            git: 'https://github.com/ITS-UofIowa/jacobsoninstitute.org.git'
+            redirects:
+                - www.jacobsoninstitute.org   
         law.uiowa.edu:
             type: custom
             profile: sitenow

@@ -2221,6 +2221,12 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/itsecurity.uiowa.edu.git'
             profile: sitenow
+        jacobsoninstitute.org:
+            type: custom
+            profile: sitenow
+            git: 'https://github.com/ITS-UofIowa/jacobsoninstitute.org.git'
+            redirects:
+                - www.jacobsoninstitute.org   
         law.uiowa.edu:
             type: custom
             profile: sitenow

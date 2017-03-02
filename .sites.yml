@@ -2349,6 +2349,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/reports.its.uiowa.edu.git'
             profile: sitenow
+        research.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/research.uiowa.edu.git'
         researcherhandbook.research.uiowa.edu:
             type: custom
             profile: sitenow

@@ -1935,7 +1935,7 @@ sites:
         jacobsoninstitute.org:
             type: custom
             profile: sitenow
-            git: 'https://github.com/ITS-UofIowa/jacobsoninstitute.org.git'
+            git: 'git@github.com:ITS-UofIowa/jacobsoninstitute.org.git'
             redirects:
                 - www.jacobsoninstitute.org  
         pappajohnentrepreneurialventurecompetition.com:

@@ -1489,6 +1489,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        pediatricaudiology.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         perinatalhealth.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

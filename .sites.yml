@@ -785,10 +785,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        uiowa.edu/vpslsearch:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         uiowa.edu/wise:
             type: standard
             profile: sitenow_standard_profile

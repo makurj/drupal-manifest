@@ -1940,12 +1940,6 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iowareadingresearch.org.git'
             redirects:
                 - www.iowareadingresearch.org
-        jacobsoninstitute.org:
-            type: custom
-            profile: sitenow
-            git: 'git@github.com:ITS-UofIowa/jacobsoninstitute.org.git'
-            redirects:
-                - www.jacobsoninstitute.org  
         pappajohnentrepreneurialventurecompetition.com:
             type: custom
             profile: sitenow

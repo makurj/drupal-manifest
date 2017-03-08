@@ -715,6 +715,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/tristem
+        uiowa.edu/ui-lsamp-iinspire:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/uiadvise:
             type: standard
             profile: sitenow_standard_profile
@@ -830,6 +834,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         africanart.course.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ahmad.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1204,6 +1212,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         herkycares.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hoth.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

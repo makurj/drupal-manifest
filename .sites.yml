@@ -1437,6 +1437,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        nguyenresearchgroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         nhlp.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

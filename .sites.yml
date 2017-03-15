@@ -533,6 +533,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/nac
+        uiowa.edu/ncbi-conference-2017:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/ndt:
             type: standard
             profile: sitenow_standard_profile

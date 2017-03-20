@@ -10,6 +10,6 @@ Sites are added manually during the provisioning process.
 Please use the following when determining where to put your site in the file:
 
 1. Sites are listed alphabetically by application (uiowa701 first, then uiowa702, etc)
-  a. _This is applicable for the uiowa701 application only:_ uiowa.edu/* sites are listed alphabetically first (beginning with the UI Homepage site)
-3.  All other *.uiowa.edu sites are listed alphabetically (regardless of site type)
-4.  Then all non-uiowa.edu sites are listed alphabetically
+  a. _This is applicable for the uiowa701 application only:_ uiowa.edu/* sites are listed alphabetically first (beginning with the UI Homepage site).
+3.  All other *.uiowa.edu sites are listed alphabetically (regardless of site type).
+4.  Then all non-uiowa.edu sites are listed alphabetically.

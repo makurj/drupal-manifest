@@ -2476,5 +2476,5 @@ sites:
             type: custom
             profile: signage
             git: 'git@github.com:ITS-UofIowa/signage.uihealthcare.org.git'
-            dev-uri: dev.signage.uihealthcare.org
-            stage-uri: stage.signage.uihealthcare.org
+            dev-uri: signage-dev.uihealthcare.org
+            stage-uri: signage-stage.uihealthcare.org

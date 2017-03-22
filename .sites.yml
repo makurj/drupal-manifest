@@ -1333,7 +1333,7 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        kjohnson14-sandbox.lab.uiowa.edu:
+        kjohns14-sandbox.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1642,6 +1642,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         russo.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        sabharwal.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

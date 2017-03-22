@@ -609,6 +609,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/ruslo
+        uiowa.edu/sbirt:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/sciencefm:
             type: standard
             profile: sitenow_standard_profile

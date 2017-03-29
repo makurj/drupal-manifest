@@ -73,6 +73,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/be-remarkable
+        uiowa.edu/bigtenplus:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/bigtenplus
         uiowa.edu/businessmanager:
             type: standard
             profile: sitenow_standard_profile

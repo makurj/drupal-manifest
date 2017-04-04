@@ -1968,6 +1968,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iexplorestem.org.git'
             redirects:
                 - www.iexplorestem.org
+        iowareview.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowareview.org.git'
+            redirects:
+                - www.iowareview.org
         iowahumanrights.org:
             type: standard
             profile: sitenow_standard_profile

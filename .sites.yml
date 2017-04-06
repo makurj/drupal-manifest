@@ -1950,6 +1950,10 @@ sites:
                 - www.chscia.org
                 - childhealthspecialtyclinics.org
                 - www.childhealthspecialtyclinics.org
+        features.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/features.uiowa.edu.git'
         geriatricpain.org:
             type: custom
             profile: sitenow

@@ -1387,6 +1387,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        lhand.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         london.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

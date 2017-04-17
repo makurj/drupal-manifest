@@ -695,6 +695,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/statewide-veterans-conference-2014
+        uiowa.edu/stem:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/stories:
             type: custom
             profile: sitenow

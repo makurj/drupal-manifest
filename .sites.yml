@@ -1165,6 +1165,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        ftoor.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         fuentes.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1242,6 +1246,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         hoth.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hornbuckle.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1507,6 +1515,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        nsr.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         oasis.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1552,6 +1564,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         pediatricaudiology.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        pennathur.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1936,6 +1952,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         womensicehockey.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        wrl.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

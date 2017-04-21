@@ -2000,6 +2000,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/geriatricpain.org.git'
             redirects:
                 - www.geriatricpain.org
+        hawkeyecaucus.com:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/hawkeyecaucus.com.git'
+            redirects:
+                - www.hawkeyecaucus.com
         www.humanitiesiowa.org:
             type: standard
             profile: sitenow_standard_profile

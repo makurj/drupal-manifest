@@ -939,6 +939,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        benson.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         bishop.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1776,6 +1780,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         star.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        stephens.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

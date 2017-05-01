@@ -1273,6 +1273,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        ifsae.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         igc.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

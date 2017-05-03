@@ -13,6 +13,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/2015safezone
+        uiowa.edu/accel:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/africanamericancouncil:
             type: standard
             profile: sitenow_standard_profile

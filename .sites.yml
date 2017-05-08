@@ -2153,6 +2153,14 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/cbb.research.uiowa.edu.git'
             profile: sitenow
+        cbe.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/cbe.engineering.uiowa.edu.git'
+        cee.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/cee.engineering.uiowa.edu.git'
         cgrer.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/cgrer.uiowa.edu.git'
@@ -2215,10 +2223,18 @@ sites:
             profile: sitenow
             redirects:
                 - www.education.uiowa.edu
+        ece.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/ece.engineering.uiowa.edu.git'
         ehs.research.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/ehs.research.uiowa.edu.git'
             profile: sitenow
+        etc.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/etc.engineering.uiowa.edu.git'
         www.engineering.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2393,6 +2409,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/medforms.sports.uiowa.edu.git'
             profile: sitenow
+        mie.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/mie.engineering.uiowa.edu.git'
         mnh.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/mnh.uiowa.edu.git'

@@ -2127,6 +2127,10 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/basbls.uc.uiowa.edu.git'
+        bme.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/bme.engineering.uiowa.edu.git'
         brand.uiowa.edu:
             type: custom
             profile: sitenow

@@ -681,6 +681,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/snuc
+        uiowa.edu/social-justice-resources-k12-teachers:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/social-justice-resources-k12-teachers
         uiowa.edu/staff:
             type: standard
             profile: sitenow_standard_profile

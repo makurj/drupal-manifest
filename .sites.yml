@@ -119,6 +119,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/cesac
+        uiowa.edu/chs:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/cifd:
             type: standard
             profile: sitenow_standard_profile

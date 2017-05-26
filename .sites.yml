@@ -899,6 +899,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        ankrum.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         anthony.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1541,6 +1545,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        mccray.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         mcelroy.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1921,6 +1929,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        sinn.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         sipe.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1971,6 +1983,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        stoltz.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         studentsindesign.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2286,6 +2302,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iowareadingresearch.org.git'
             redirects:
                 - www.iowareadingresearch.org
+        ips2017.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         jacobsoninstitute.org:
             type: custom
             profile: sitenow

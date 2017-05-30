@@ -2343,6 +2343,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/afr.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         aging.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/aging.uiowa.edu.git'
@@ -2383,6 +2385,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/cam.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         careers.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/careers.uiowa.edu.git'
@@ -2435,6 +2439,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/controller.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         desmoines.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2487,6 +2493,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/fa.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         facultysupport.distance.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2499,12 +2507,16 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/fmb.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         fo.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/fo.uiowa.edu.git'
             profile: sitenow
             redirects:
                 - www.fo.uiowa.edu
+            drush-groups:
+                - fo_suite
         foriowa.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2513,6 +2525,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/gao.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         gencounsel.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/gencounsel.uiowa.edu.git'
@@ -2591,6 +2605,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/idcard.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         ideal.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/ideal.uiowa.edu.git'
@@ -2787,6 +2803,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/tax.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         teach.its.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/teach.its.uiowa.edu.git'
@@ -2817,10 +2835,14 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/treasury.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         ubill.fo.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/ubill.fo.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - fo_suite
         uc.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/uc.uiowa.edu.git'

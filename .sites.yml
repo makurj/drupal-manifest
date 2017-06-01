@@ -1543,6 +1543,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        maretzky.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         maria-spies.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

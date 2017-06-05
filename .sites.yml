@@ -611,6 +611,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/postsecular-novel
+        uiowa.edu/rcedoc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/rcedoc
         uiowa.edu/riskmanagement:
             type: standard
             profile: sitenow_standard_profile

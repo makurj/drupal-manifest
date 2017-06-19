@@ -2352,6 +2352,12 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/intranet.oneit.uiowa.edu.git'
+        iowalakesidelab.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowalakesidelab.org.git'
+            redirects:
+                - www.iowalakesidelab.org
         iowareadingresearch.org:
             type: custom
             profile: sitenow

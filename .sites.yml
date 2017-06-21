@@ -447,6 +447,9 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - iowasummerwritingfestival.org
+                - www.iowasummerwritingfestival.org
         uiowa.edu/itsecurity:
             type: standard
             profile: sitenow_standard_profile

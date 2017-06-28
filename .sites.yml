@@ -1454,6 +1454,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        jabbari.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         janz.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2367,6 +2373,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iowareadingresearch.org.git'
             redirects:
                 - www.iowareadingresearch.org
+        iowateacherintern.org:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         ips2017.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -7,12 +7,6 @@ sites:
             redirects:
                 - www.uiowa.edu
                 - frontier.uiowa.edu
-        uiowa.edu/2015safezone:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/2015safezone
         uiowa.edu/accel:
             type: standard
             profile: sitenow_standard_profile

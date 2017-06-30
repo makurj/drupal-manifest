@@ -337,6 +337,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/haa
+        uiowa.edu/higheredandsuccessfulreentry:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/higheredandsuccessfulreentry
         uiowa.edu/hmb:
             type: standard
             profile: sitenow_standard_profile

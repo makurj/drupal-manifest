@@ -2411,6 +2411,8 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/teachonline.uiowa.edu.git'
+            redirects:
+                - facultysupport.distance.uiowa.edu
         uhd-content.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2576,10 +2578,6 @@ sites:
             profile: sitenow
             drush-groups:
                 - fo_suite
-        facultysupport.distance.uiowa.edu:
-            type: custom
-            profile: sitenow
-            git: 'git@github.com:ITS-UofIowa/facultysupport.distance.uiowa.edu.git'
         financialaid.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/financialaid.uiowa.edu.git'

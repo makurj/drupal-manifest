@@ -994,6 +994,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        bassukferguson.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         baumbach.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1300,6 +1306,18 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        glaucomacellbiology.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        glaucomagenetics.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         gradmed.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2243,6 +2261,12 @@ sites:
             drush-groups:
                 - uihc_labs
         willour.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        wilson.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

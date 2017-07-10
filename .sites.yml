@@ -904,6 +904,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        allen.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         alphaupsilonlambdas.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -979,6 +985,12 @@ sites:
             drush-groups:
                 - uihc_labs
         baker.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        banfi.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

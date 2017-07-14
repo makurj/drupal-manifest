@@ -2316,6 +2316,12 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        young.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         zaheer.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

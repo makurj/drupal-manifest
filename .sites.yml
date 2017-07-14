@@ -2474,6 +2474,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/animal.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         announcements.research.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/announcements.research.uiowa.edu.git'
@@ -2522,6 +2524,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/cbb.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         cbe.engineering.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2552,10 +2556,14 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/cmrf.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         coi.research.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/coi.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         controller.fo.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/controller.fo.uiowa.edu.git'
@@ -2574,6 +2582,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/discover.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         distance.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/distance.uiowa.edu.git'
@@ -2588,6 +2598,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/dsp.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         education.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/education.uiowa.edu.git'
@@ -2602,6 +2614,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/ehs.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         etc.engineering.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2656,6 +2670,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/grantbulletin.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         grantwood.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/grantwood.uiowa.edu.git'
@@ -2702,14 +2718,20 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/hrmsf.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         hso.research.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/hso.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         hts.research.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/hts.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         iae.education.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/iae.education.uiowa.edu.git'
@@ -2840,6 +2862,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/ovproperations.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         pathforward.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2858,6 +2882,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/portalpages.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         provost.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2866,6 +2892,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/rcouncil.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         recserv.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/recserv.uiowa.edu.git'
@@ -2894,10 +2922,14 @@ sites:
             git: 'git@github.com:ITS-UofIowa/research.uiowa.edu.git'
             redirects:
                 - www.research.uiowa.edu
+            drush-groups:
+                - ovpred_suite
         researcherhandbook.research.uiowa.edu:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/researcherhandbook.research.uiowa.edu.git'
+            drush-groups:
+                - ovpred_suite
         researchpark.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2906,6 +2938,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/ris.research.uiowa.edu.git'
             profile: sitenow
+            drush-groups:
+                - ovpred_suite
         shl.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/shl.uiowa.edu.git'

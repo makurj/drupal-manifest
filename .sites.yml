@@ -2415,6 +2415,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iowareadingresearch.org.git'
             redirects:
                 - www.iowareadingresearch.org
+        iowasummerwritingfestival.org:
+            type: custom
+            profile: sitenow
+            git: 'https://github.com/ITS-UofIowa/iowasummerwritingfestival.org.git'
+            redirects:
+                - www.iowasummerwritingfestival.org
         iowateacherintern.org:
             type: standard
             profile: sitenow_standard_profile

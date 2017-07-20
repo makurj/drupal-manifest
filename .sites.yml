@@ -2343,6 +2343,10 @@ sites:
             drush-groups:
                 - uihc_labs
     uiowa702:
+        automated.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         centerforconferences.uiowa.edu:
             type: custom
             profile: sitenow

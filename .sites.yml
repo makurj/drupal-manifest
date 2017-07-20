@@ -11,6 +11,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        uiowa.edu/accreditation:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/africanamericancouncil:
             type: standard
             profile: sitenow_standard_profile

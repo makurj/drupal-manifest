@@ -1844,6 +1844,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.predict-hd.net
             drush-groups:
                 - uihc_labs
         preservation.course.uiowa.edu:

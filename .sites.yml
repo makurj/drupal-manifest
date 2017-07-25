@@ -928,12 +928,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        ankrum.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            drush-groups:
-                - uihc_labs
         anthony.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1624,12 +1618,6 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
-        mccray.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            drush-groups:
-                - uihc_labs
         mcelroy.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1703,10 +1691,6 @@ sites:
             profile: sitenow_standard_profile
             git: null
         ncte.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        neuroerg.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1924,14 +1908,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        runningc.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        rubenstein.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         russo.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2018,12 +1994,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        sinn.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            drush-groups:
-                - uihc_labs
         sipe.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2065,12 +2035,6 @@ sites:
             drush-groups:
                 - uihc_labs
         stevens.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            drush-groups:
-                - uihc_labs
-        stoltz.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

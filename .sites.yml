@@ -1178,10 +1178,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        distance.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         dodd.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

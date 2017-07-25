@@ -2774,10 +2774,6 @@ sites:
             profile: sitenow
             drush-groups:
                 - fo_suite
-        ideal.uiowa.edu:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/ideal.uiowa.edu.git'
-            profile: sitenow
         iisc.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/iisc.uiowa.edu.git'

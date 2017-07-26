@@ -2329,6 +2329,12 @@ sites:
                 - www.chscia.org
                 - childhealthspecialtyclinics.org
                 - www.childhealthspecialtyclinics.org
+        familyphysician.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         features.uiowa.edu:
             type: custom
             profile: sitenow

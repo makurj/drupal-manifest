@@ -1378,6 +1378,12 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/hawktools.uiowa.edu.git'
             profile: sitenow
+        hefti.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         helpinghawks.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1498,6 +1504,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        jian-zhang.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         jprineas.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

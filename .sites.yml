@@ -2230,6 +2230,12 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        weiner.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         weiss.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

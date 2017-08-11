@@ -1104,6 +1104,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - uihc_labs
         china.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1140,6 +1142,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - uihc_labs
         cycling.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1268,6 +1272,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - uihc_labs
         foodpantry.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1888,10 +1894,14 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - uihc_labs
         rahmouni.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - uihc_labs
         richerson.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2070,6 +2080,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - uihc_labs
         strathearn.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2194,6 +2206,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        usachev.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         vandervelde.studio.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/vandervelde.studio.uiowa.edu.git'

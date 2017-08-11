@@ -1136,6 +1136,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        cui.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         cycling.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1260,6 +1264,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        fisher.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         foodpantry.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1876,6 +1884,14 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        quelle.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        rahmouni.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         richerson.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2050,6 +2066,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        strack.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         strathearn.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

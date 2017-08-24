@@ -7,6 +7,10 @@ sites:
             redirects:
                 - www.uiowa.edu
                 - frontier.uiowa.edu
+        uiowa.edu/acad-org-2020:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/accel:
             type: standard
             profile: sitenow_standard_profile

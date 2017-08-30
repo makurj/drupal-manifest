@@ -2144,12 +2144,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        tme2018.centerforconferences.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            drush-groups:
-                - cfc_suite
         translateiowa.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2525,6 +2519,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/teachonline.uiowa.edu.git'
             redirects:
                 - facultysupport.distance.uiowa.edu
+        tme2018.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         uhd-content.uiowa.edu:
             type: custom
             profile: sitenow

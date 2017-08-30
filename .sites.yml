@@ -1684,6 +1684,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        mipl-roc.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         moore.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2140,6 +2144,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        tme2018.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         translateiowa.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

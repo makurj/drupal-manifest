@@ -1140,6 +1140,12 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        colleen-campbell.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         colleencampbell.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

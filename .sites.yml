@@ -2240,6 +2240,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        uipaws.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiphotography.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

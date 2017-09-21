@@ -616,6 +616,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/pinyin
+        uiowa.edu/planning-and-development:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/postsecular-novel:
             type: standard
             profile: sitenow_standard_profile
@@ -628,6 +632,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/rcedoc
+        uiowa.edu/rdmevent:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/riskmanagement:
             type: standard
             profile: sitenow_standard_profile

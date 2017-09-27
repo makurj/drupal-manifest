@@ -914,6 +914,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        aice.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         ailp.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

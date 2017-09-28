@@ -2525,6 +2525,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/hawkeyecaucus.com.git'
             redirects:
                 - www.hawkeyecaucus.com
+        hawkit.sports.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         www.humanitiesiowa.org:
             type: standard
             profile: sitenow_standard_profile

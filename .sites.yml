@@ -2876,12 +2876,6 @@ sites:
             profile: sitenow
             redirects:
                 - www.housing.uiowa.edu
-        housing.uiowa.edu/uhd-admin:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/housing.uiowa.edu.uhd-admin.git'
-            profile: sitenow
-            redirects:
-                - www.housing.uiowa.edu/uhd-admin
         hpc.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/hpc.uiowa.edu.git'

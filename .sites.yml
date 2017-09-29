@@ -1156,6 +1156,12 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        colgan.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         colleen-campbell.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1228,6 +1234,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        diekema.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         dodd.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1306,6 +1318,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        felder.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         fethke.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1652,6 +1670,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        laroche.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         lbaas-sandbox.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1728,6 +1752,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        meier.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         mensvolleyball.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1742,6 +1772,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        mickelson.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         mindfulatiowa.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1986,6 +2022,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        robert-weiss.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         robertson.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2122,6 +2164,12 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
             profile: sitenow
+        sivitz.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         sls.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2218,6 +2266,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        thomas.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         tkd.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2455,6 +2509,12 @@ sites:
             drush-groups:
                 - uihc_labs
         zaheer.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        zhan.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

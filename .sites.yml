@@ -1926,12 +1926,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        potash.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            drush-groups:
-                - uihc_labs
         potthoff.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -1050,10 +1050,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        bme.engineering.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         boes.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1096,19 +1092,11 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
-        cbe.engineering.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         cbml.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
         cec.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        cee.engineering.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1247,10 +1235,6 @@ sites:
             drush-groups:
                 - uihc_labs
         drupal.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        ece.engineering.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1768,10 +1752,6 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
-        mie.engineering.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         mickelson.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

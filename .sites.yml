@@ -1610,6 +1610,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        kidneeds.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         kids-hd.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

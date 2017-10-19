@@ -482,6 +482,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/laundry
+        uiowa.edu/law-dean-search:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/law-lutielytle:
             type: standard
             profile: sitenow_standard_profile
@@ -971,6 +975,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         asauiowa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        asme.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1478,6 +1486,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        hope.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         hoth.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2448,6 +2460,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        wics.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         williams.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

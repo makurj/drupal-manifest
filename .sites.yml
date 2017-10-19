@@ -1726,6 +1726,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        mccray.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         mcelroy.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2142,6 +2146,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        sinn.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         sipe.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2204,6 +2212,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        stoltz.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         strack.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2494,6 +2506,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        zabner.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         zaheer.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

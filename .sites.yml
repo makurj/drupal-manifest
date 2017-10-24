@@ -1046,6 +1046,12 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        bipolardisorders.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         bishop.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1614,6 +1620,12 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        jiang.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         jprineas.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1696,11 +1708,17 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        legge.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         lila.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        legge.lab.uiowa.edu:
+        liu.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

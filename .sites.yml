@@ -1534,6 +1534,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        huang.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         i3hsa.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

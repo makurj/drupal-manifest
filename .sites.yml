@@ -1404,6 +1404,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        giudici.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         glaucomacellbiology.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

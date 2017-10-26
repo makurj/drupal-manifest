@@ -1876,6 +1876,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        mokadem.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         moore.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

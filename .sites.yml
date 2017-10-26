@@ -221,6 +221,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/debate
+        uiowa.edu/designcenter:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/diversitychartercommittee:
             type: standard
             profile: sitenow_standard_profile

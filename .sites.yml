@@ -1738,16 +1738,22 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        lgbtqsf.org.uiowa.edu:
+        lee.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - uihc_labs
         legge.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
             drush-groups:
                 - uihc_labs
+        lgbtqsf.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         lila.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

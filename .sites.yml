@@ -2410,6 +2410,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        tricot.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         trihawks.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

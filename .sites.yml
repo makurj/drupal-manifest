@@ -1972,6 +1972,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        oneil.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         oniowa.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/oniowa.uiowa.edu.git'

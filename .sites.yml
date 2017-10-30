@@ -1584,6 +1584,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        ince.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         interprofessional.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1979,6 +1985,12 @@ sites:
             profile: sitenow_standard_profile
             git: null
         oneil.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        oneill.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

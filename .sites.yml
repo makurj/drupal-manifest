@@ -3419,3 +3419,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/signage.uihealthcare.org.git'
             dev-uri: signage-dev.uihealthcare.org
             stage-uri: signage-stage.uihealthcare.org
+    uisignage:
+        signage.uiowa.edu:
+            type: custom
+            profile: signage
+            git: 'git@github.com:ITS-UofIowa/signage.uiowa.edu.git'
+            dev-uri: signage-dev.uiowa.edu
+            stage-uri: signage-stage.uiowa.edu

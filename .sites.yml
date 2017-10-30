@@ -1136,12 +1136,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        cheec.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.cheec.uiowa.edu
         chemsafe.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1984,12 +1978,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        oneil.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            drush-groups:
-                - uihc_labs
         oneill.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

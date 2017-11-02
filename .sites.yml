@@ -2737,6 +2737,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        hrandbusiness.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         www.humanitiesiowa.org:
             type: standard
             profile: sitenow_standard_profile

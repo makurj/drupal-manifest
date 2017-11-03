@@ -2841,6 +2841,10 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/se.iowastem.org.git'
+        teach.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/teach.uiowa.edu.git'
         teachonline.uiowa.edu:
             type: custom
             profile: sitenow

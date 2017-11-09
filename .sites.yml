@@ -209,12 +209,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/datascience
-        uiowa.edu/dce:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/dce
         uiowa.edu/debate:
             type: standard
             profile: sitenow_standard_profile

@@ -1414,6 +1414,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        gridgway-sandbox.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         grobe.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

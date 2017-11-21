@@ -1688,10 +1688,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        kjohns14-sandbox.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         klesney-tait.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

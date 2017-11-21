@@ -812,6 +812,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/uilatinocouncil
+        uiowa.edu/uima-search:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/uima-search
         uiowa.edu/uiobl:
             type: standard
             profile: sitenow_standard_profile

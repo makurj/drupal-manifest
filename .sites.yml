@@ -2863,6 +2863,10 @@ sites:
             type: custom
             profile: sitenow
             git: 'https://github.com/ITS-UofIowa/uhd-content.git'
+        uiservicecenter.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
     uiowa703:
         advisingcenter.uiowa.edu:
             type: custom

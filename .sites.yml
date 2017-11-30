@@ -864,6 +864,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/wise
+        uiowa.edu/wni:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/wni
         uiowa.edu/yeastdrugs:
             type: standard
             profile: sitenow_standard_profile

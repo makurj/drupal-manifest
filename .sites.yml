@@ -9,7 +9,10 @@ sites:
                 - frontier.uiowa.edu
         uiowa.edu/acad-org-2020:
             type: standard
-            profile: sitenow_standard_profile
+            profile: sitenow_standard_profileiowamade.org:
+    type: custom
+    profile: sitenow
+    git: 'git@github.com:ITS-UofIowa/iowamade.org.git'
             git: null
         uiowa.edu/accel:
             type: standard
@@ -2787,6 +2790,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iowajpec.org.git'
             redirects:
                 - iowajpec.org
+        iowamade.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowamade.org.git'
         intranet.oneit.uiowa.edu:
             type: custom
             profile: sitenow

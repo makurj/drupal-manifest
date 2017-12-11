@@ -2176,6 +2176,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        russian-folklore.course.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         russo.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

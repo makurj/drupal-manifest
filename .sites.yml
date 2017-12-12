@@ -1600,6 +1600,10 @@ sites:
             git: null
             redirects:
                 - www.interprofessional.uiowa.edu
+        inventionofwriting.course.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         iowaideas.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

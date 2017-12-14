@@ -2845,6 +2845,10 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/masterplan.facilities.uiowa.edu.git'
+        newview.io:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/newview.io.git'
         neuronext.org:
             type: custom
             profile: sitenow

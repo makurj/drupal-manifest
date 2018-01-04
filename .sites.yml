@@ -2735,6 +2735,7 @@ sites:
             git: 'git@github.com:ITS-UofIowa/emergency.uiowa.edu.git'
             redirects:
                 - e.uiowa.edu
+                - www.emergency.uiowa.edu
         familyphysician.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -277,12 +277,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/fallgiving
-        uiowa.edu/familymedresidencypolicymanual:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/familymedresidencypolicymanual
         uiowa.edu/fbis:
             type: standard
             profile: sitenow_standard_profile

@@ -1,4 +1,7 @@
 sites:
+    uiowa:
+        eight.uiowa.edu:
+            profile: uiowa
     uiowa701:
         uiowa.edu:
             type: custom

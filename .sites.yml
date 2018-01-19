@@ -580,6 +580,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/pasttense
+        uiowa.edu/pinyin:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/planning-and-development:
             type: standard
             profile: sitenow_standard_profile

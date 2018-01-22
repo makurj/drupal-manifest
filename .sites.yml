@@ -2612,6 +2612,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/jacobsoninstitute.org.git'
             redirects:
                 - www.jacobsoninstituate.org
+        lapd2019.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         masterplan.facilities.uiowa.edu:
             type: custom
             profile: sitenow

@@ -369,6 +369,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/ijcs
+        uiowa.edu/ilg:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ilg
         uiowa.edu/indiancinema:
             type: standard
             profile: sitenow_standard_profile

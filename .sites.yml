@@ -263,6 +263,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/enterpriseriskmanagement
+        uiowa.edu/equityimplemented:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/facultysenate:
             type: standard
             profile: sitenow_standard_profile

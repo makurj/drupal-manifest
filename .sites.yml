@@ -1052,6 +1052,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        celp.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         chapleau.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

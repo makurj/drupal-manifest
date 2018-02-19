@@ -514,6 +514,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/miki2016
+        uiowa.edu/mmpc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/mmpc
         uiowa.edu/mphpracticumpartners:
             type: standard
             profile: sitenow_standard_profile

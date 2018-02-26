@@ -339,6 +339,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/influenza
+        uiowa.edu/informatics-computational-psychiatry-symposium:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/informaticsshowcase:
             type: standard
             profile: sitenow_standard_profile
@@ -2520,6 +2524,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - cfc_suite
+        marce2020.com:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/marce2020.com.git'
             drush-groups:
                 - cfc_suite
         masterplan.facilities.uiowa.edu:

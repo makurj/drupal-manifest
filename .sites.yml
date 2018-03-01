@@ -2556,6 +2556,12 @@ sites:
             git: null
             drush-groups:
                 - cfc_suite
+        rss2019.org:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.rss2019.org
         se.iowastem.org:
             type: custom
             profile: sitenow

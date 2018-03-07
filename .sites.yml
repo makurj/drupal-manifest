@@ -385,13 +385,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/ismc
-        uiowa.edu/iswfestival:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - iowasummerwritingfestival.org
-                - www.iowasummerwritingfestival.org
         uiowa.edu/itshdtest:
             type: standard
             profile: sitenow_standard_profile

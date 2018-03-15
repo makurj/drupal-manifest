@@ -2368,6 +2368,12 @@ sites:
             drush-groups:
                 - uihc_labs
     uiowa702:
+        120thcelebration.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         automated.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

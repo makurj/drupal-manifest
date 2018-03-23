@@ -2083,6 +2083,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        tivanskigroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         tkd.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

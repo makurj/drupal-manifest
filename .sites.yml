@@ -113,6 +113,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        uiowa.edu/climatecollective:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         uiowa.edu/cnm:
             type: standard
             profile: sitenow_standard_profile

@@ -1151,6 +1151,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        fluids.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         foodpantry.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1728,6 +1732,12 @@ sites:
             profile: sitenow_standard_profile
             git: null
         parker.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        paulsen.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

@@ -2926,7 +2926,6 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/icater.education.uiowa.edu.git'
-            profile: sitenow
         idcard.fo.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/idcard.fo.uiowa.edu.git'

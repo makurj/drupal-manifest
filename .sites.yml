@@ -2503,8 +2503,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-            redirects:
-                - idcard.fo.uiowa.edu
         iexplorestem.org:
             type: custom
             profile: sitenow

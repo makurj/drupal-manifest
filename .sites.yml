@@ -2503,8 +2503,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-            redirects:
-                - idcard.fo.uiowa.edu
         iexplorestem.org:
             type: custom
             profile: sitenow
@@ -2928,6 +2926,10 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/icater.education.uiowa.edu.git'
+        idcard.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/idcard.fo.uiowa.edu.git'
+            profile: sitenow
         iisc.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/iisc.uiowa.edu.git'

@@ -1843,6 +1843,12 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        randak.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         ratner.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2009,6 +2015,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
             profile: sitenow
+        sits.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         sivitz.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

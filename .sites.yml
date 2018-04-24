@@ -1163,6 +1163,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        fskiff.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         ftoor.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

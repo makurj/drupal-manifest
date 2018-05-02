@@ -2434,6 +2434,12 @@ sites:
             git: null
             drush-groups:
                 - cfc_suite
+        a-p-course.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         automated.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

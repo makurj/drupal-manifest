@@ -2576,7 +2576,7 @@ sites:
         iowasasp.org:
             type: custom
             profile: sitenow
-            git: 'https://github.com/ITS-UofIowa/iowasasp.org.git'
+            git: 'git@github.com:ITS-UofIowa/iowasasp.org.git'
         iowasummerwritingfestival.org:
             type: custom
             profile: sitenow

@@ -1577,6 +1577,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        masongroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         mccray.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

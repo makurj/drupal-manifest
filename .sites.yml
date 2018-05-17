@@ -2491,6 +2491,10 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/features.uiowa.edu.git'
+        firstgen.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         geriatricpain.org:
             type: custom
             profile: sitenow

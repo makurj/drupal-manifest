@@ -183,6 +183,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/cvrs
+        uiowa.edu/cyshcnhealthequity:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/cyshcnhealthequity
         uiowa.edu/datascience:
             type: standard
             profile: sitenow_standard_profile
@@ -479,6 +485,12 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/news-release-archives
+        uiowa.edu/nsfcyberinfrastructure:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/nsfcyberinfrastructure
         uiowa.edu/nursing-dean-search:
             type: standard
             profile: sitenow_standard_profile

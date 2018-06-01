@@ -1413,6 +1413,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        ipchinaroadshow.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         irani.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

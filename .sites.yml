@@ -1609,6 +1609,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        matthew-arndt.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         mccray.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2671,6 +2675,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/neuronext.org.git'
             redirects:
                 - www.neuronext.org
+        oldcapitolfutures.com:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         pappajohnentrepreneurialventurecompetition.com:
             type: custom
             profile: sitenow

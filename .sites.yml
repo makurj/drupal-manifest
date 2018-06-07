@@ -2531,6 +2531,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        hcccretreat.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         hrandbusiness.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

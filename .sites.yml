@@ -2486,6 +2486,10 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/content.uiowa.edu.git'
+        csomaycenter.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         ctsdmc.uiowa.edu:
             type: custom
             profile: sitenow

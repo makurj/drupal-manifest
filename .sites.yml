@@ -3032,6 +3032,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/international.uiowa.edu.git'
             profile: sitenow
+        ise.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/ise.engineering.uiowa.edu.git'
         itpmo.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/itpmo.uiowa.edu.git'
@@ -3066,6 +3070,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/maps.uiowa.edu.git'
             profile: sitenow
+        me.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/me.engineering.uiowa.edu.git'
         medforms.sports.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/medforms.sports.uiowa.edu.git'

@@ -2099,6 +2099,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        staff-council.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         stapleton.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

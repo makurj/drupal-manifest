@@ -1367,10 +1367,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        icmh.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         ieee.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1413,6 +1409,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        iowabrainbank.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         ipchinaroadshow.sites.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

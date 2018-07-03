@@ -573,12 +573,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/shakespeareiniowa
-        uiowa.edu/sharedgovernance:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/sharedgovernance
         uiowa.edu/sitenow-default-theme:
             type: standard
             profile: sitenow_standard_profile
@@ -613,12 +607,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/social-justice-resources-k12-teachers
-        uiowa.edu/staff:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/staff
         uiowa.edu/statefair:
             type: standard
             profile: sitenow_standard_profile

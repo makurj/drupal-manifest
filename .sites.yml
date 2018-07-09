@@ -2197,10 +2197,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        traumasupportstudy.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         trihawks.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

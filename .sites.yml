@@ -2496,6 +2496,10 @@ sites:
                 - www.chscia.org
                 - childhealthspecialtyclinics.org
                 - www.childhealthspecialtyclinics.org
+        cio.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         collaboratory.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

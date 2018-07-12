@@ -1749,6 +1749,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        obgynprotocols.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         onefinance.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

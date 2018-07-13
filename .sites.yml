@@ -2480,6 +2480,12 @@ sites:
             git: null
             drush-groups:
                 - cfc_suite
+        aasog2019.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         automated.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

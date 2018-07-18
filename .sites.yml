@@ -2786,10 +2786,6 @@ sites:
             profile: sitenow
             drush-groups:
                 - ovpred_suite
-        announcements.research.uiowa.edu:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/announcements.research.uiowa.edu.git'
-            profile: sitenow
         archaeology.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/archaeology.uiowa.edu.git'

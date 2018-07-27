@@ -2518,6 +2518,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        commencement.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'https://github.com/ITS-UofIowa/commencement.uiowa.edu.git'
         content.uiowa.edu:
             type: custom
             profile: sitenow

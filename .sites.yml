@@ -2597,6 +2597,12 @@ sites:
             git: null
             redirects:
                 - humanitiesiowa.org
+        iaapt.us:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.iaapt.us
         iapt.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

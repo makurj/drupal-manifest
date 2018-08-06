@@ -2670,7 +2670,7 @@ sites:
         iowasummerwritingfestival.org:
             type: custom
             profile: sitenow
-            git: 'https://github.com/ITS-UofIowa/iowasummerwritingfestival.org.git'
+            git: 'git@github.com:ITS-UofIowa/iowasummerwritingfestival.org.git'
             redirects:
                 - www.iowasummerwritingfestival.org
         iowateacherintern.org:

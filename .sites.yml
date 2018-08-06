@@ -2525,7 +2525,7 @@ sites:
         commencement.uiowa.edu:
             type: custom
             profile: sitenow
-            git: 'https://github.com/ITS-UofIowa/commencement.uiowa.edu.git'
+            git: 'git@github.com:/ITS-UofIowa/commencement.uiowa.edu'
         content.uiowa.edu:
             type: custom
             profile: sitenow

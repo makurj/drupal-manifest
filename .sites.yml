@@ -2738,7 +2738,7 @@ sites:
         postprovision.uiowa.edu:
             type: custom
             profile: sitenow
-            git: 'https://github.com/ITS-UofIowa/postprovision.uiowa.edu.git'
+            git: 'git@github.com:ITS-UofIowa/postprovision.uiowa.edu.git'
         psychpostgrad.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

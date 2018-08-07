@@ -1199,6 +1199,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        gel.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         genetics.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

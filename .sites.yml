@@ -1199,6 +1199,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        gel.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         genetics.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2525,7 +2529,7 @@ sites:
         commencement.uiowa.edu:
             type: custom
             profile: sitenow
-            git: 'https://github.com/ITS-UofIowa/commencement.uiowa.edu.git'
+            git: 'git@github.com:/ITS-UofIowa/commencement.uiowa.edu'
         content.uiowa.edu:
             type: custom
             profile: sitenow
@@ -2597,6 +2601,12 @@ sites:
             git: null
             redirects:
                 - humanitiesiowa.org
+        iaapt.us:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.iaapt.us
         iapt.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2670,7 +2680,7 @@ sites:
         iowasummerwritingfestival.org:
             type: custom
             profile: sitenow
-            git: 'https://github.com/ITS-UofIowa/iowasummerwritingfestival.org.git'
+            git: 'git@github.com:ITS-UofIowa/iowasummerwritingfestival.org.git'
             redirects:
                 - www.iowasummerwritingfestival.org
         iowateacherintern.org:
@@ -2678,6 +2688,12 @@ sites:
             profile: sitenow_standard_profile
             git: null
         ips2017.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        isv2019.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -2731,6 +2747,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/pappajohnentrepreneurialventurecompetition.com.git'
             redirects:
                 - www.pappajohnentrepreneurialventurecompetition.com
+        postprovision.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/postprovision.uiowa.edu.git'
         psychpostgrad.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2766,7 +2786,7 @@ sites:
         uhd-content.uiowa.edu:
             type: custom
             profile: sitenow
-            git: 'https://github.com/ITS-UofIowa/uhd-content.git'
+            git: 'git@github.com:ITS-UofIowa/uhd-content.git'
         uiservicecenter.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

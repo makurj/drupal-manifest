@@ -2704,7 +2704,7 @@ sites:
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/jacobsoninstitute.org.git'
             redirects:
-                - www.jacobsoninstituate.org
+                - www.jacobsoninstitute.org
         lapd2019.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -1319,6 +1319,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/hawktools.uiowa.edu.git'
             profile: sitenow
+        heaar.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         hefti.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -1589,6 +1589,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/lynda.uiowa.edu.git'
             profile: sitenow
+        naacp-iowacity.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         m-ashley-spies.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -25,6 +25,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/accreditation
         uiowa.edu/africanamericancouncil:
             type: standard
             profile: sitenow_standard_profile
@@ -113,10 +115,14 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/chs
         uiowa.edu/climatecollective:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/climatecollective
         uiowa.edu/cnm:
             type: standard
             profile: sitenow_standard_profile
@@ -205,6 +211,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/designcenter
         uiowa.edu/diversitychartercommittee:
             type: standard
             profile: sitenow_standard_profile
@@ -233,6 +241,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/english-internships
         uiowa.edu/enterpriseriskmanagement:
             type: standard
             profile: sitenow_standard_profile
@@ -417,6 +427,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/law-dean-search
         uiowa.edu/ldg:
             type: standard
             profile: sitenow_standard_profile
@@ -433,6 +445,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/lift
         uiowa.edu/manuscript-materiality:
             type: standard
             profile: sitenow_standard_profile
@@ -479,6 +493,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ncbi-conference-2017
         uiowa.edu/news-release-archives:
             type: standard
             profile: sitenow_standard_profile
@@ -525,10 +541,14 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/pinyin
         uiowa.edu/planning-and-development:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/planning-and-development
         uiowa.edu/postsecular-novel:
             type: standard
             profile: sitenow_standard_profile
@@ -555,6 +575,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/sbirt
         uiowa.edu/sciencewritingcontest:
             type: standard
             profile: sitenow_standard_profile
@@ -589,6 +611,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/sitenow-lab-theme
         uiowa.edu/sitenow-stellar-theme:
             type: standard
             profile: sitenow_standard_profile
@@ -617,10 +641,14 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/stem
         uiowa.edu/stories:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/uiowa.edu.stories.git'
+            redirects:
+                - www.uiowa.edu/stories
         uiowa.edu/summerdatascience:
             type: standard
             profile: sitenow_standard_profile
@@ -637,6 +665,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/tamil
         uiowa.edu/tea:
             type: standard
             profile: sitenow_standard_profile
@@ -653,6 +683,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/ui-lsamp-iinspire
         uiowa.edu/uiadvise:
             type: standard
             profile: sitenow_standard_profile
@@ -711,6 +743,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - www.uiowa.edu/vpma-dean-search
         uiowa.edu/wise:
             type: standard
             profile: sitenow_standard_profile

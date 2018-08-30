@@ -1087,6 +1087,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        dai.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         dale-stille.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1113,6 +1117,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        demir-lira.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         diekema.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1757,6 +1765,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        musicianshpd.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         musselman.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -1585,6 +1585,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        lamuta.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         laroche.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1639,10 +1643,6 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
-        lamuta.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         lynda.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/lynda.uiowa.edu.git'

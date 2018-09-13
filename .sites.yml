@@ -1,10 +1,4 @@
 sites:
-    uiowa:
-        eight.uiowa.edu:
-            profile: uiowa
-            git: git@github.com:uiowa/eight.uiowa.edu.git
-        nine.uiowa.edu:
-            profile: uiowa
     uiowa701:
         uiowa.edu:
             type: custom

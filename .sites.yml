@@ -1471,6 +1471,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        iowavirology2019.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         ipchinaroadshow.sites.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2002,6 +2006,10 @@ sites:
             drush-groups:
                 - uihc_labs
         ratner.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        religion-secularism-novel.sites.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

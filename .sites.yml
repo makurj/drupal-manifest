@@ -1993,6 +1993,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        radoshevich.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         rahmouni.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2721,6 +2725,12 @@ sites:
             git: null
             drush-groups:
                 - cfc_suite
+        icfm2020.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/icfm2020.org.git'
+            drush-groups:
+                - cfc_suite
         idcard.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2907,6 +2917,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        wirrc.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/wirrc.org.git'
         writing.uiowa.edu:
             type: custom
             profile: sitenow

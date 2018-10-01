@@ -6,9 +6,6 @@ The Drupal Sites Manifest is a master list of all University of Iowa Drupal webs
 
 Sites are added manually during the provisioning process.
 
-The Manifest Docroot Quick Search can be found here:
-http://its-uofiowa.github.io/drupal-manifest/
-
 ## Determining where to place your site in the manifest
 Please use the following when determining where to put your site in the file:
 

@@ -1111,6 +1111,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        deltachapterdst.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         demali.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1118,6 +1122,10 @@ sites:
             drush-groups:
                 - uihc_labs
         demir-lira.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        deroo.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1745,6 +1753,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        miles.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         mindfulatiowa.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

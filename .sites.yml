@@ -1983,6 +1983,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        psycholinguistics.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         qi.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -757,6 +757,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/yeastdrugs
+        3ddesign.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         4cast.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -2602,11 +2602,11 @@ sites:
             git: 'git@github.com:ITS-UofIowa/facilities.uiowa.edu.git'
             redirects:
                 - facilities.uiowa.edu
-        mnh.uiowa.edu
+        mnh.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        oldcap.uiowa.edu
+        oldcap.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

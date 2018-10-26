@@ -757,6 +757,10 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/yeastdrugs
+        3ddesign.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         4cast.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1111,6 +1115,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        deltachapterdst.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         demali.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1118,6 +1126,10 @@ sites:
             drush-groups:
                 - uihc_labs
         demir-lira.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        deroo.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1509,12 +1521,6 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
-        janz.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            drush-groups:
-                - uihc_labs
         jcl.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1751,6 +1757,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        miles.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         mindfulatiowa.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1977,6 +1987,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        psycholinguistics.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         qi.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1990,6 +2004,10 @@ sites:
             drush-groups:
                 - uihc_labs
         radley.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        radoshevich.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -2588,6 +2606,14 @@ sites:
             git: 'git@github.com:ITS-UofIowa/facilities.uiowa.edu.git'
             redirects:
                 - facilities.uiowa.edu
+        mnh.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        oldcap.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         120thcelebration.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2719,6 +2745,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - cfc_suite
+        icfm2020.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/icfm2020.org.git'
             drush-groups:
                 - cfc_suite
         idcard.uiowa.edu:
@@ -2907,6 +2939,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        wirrc.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/wirrc.org.git'
         writing.uiowa.edu:
             type: custom
             profile: sitenow
@@ -3024,6 +3060,10 @@ sites:
             profile: sitenow
             drush-groups:
                 - fo_suite
+        csi.its.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/csi.its.uiowa.edu.git'
         desmoines.uiowa.edu:
             type: custom
             profile: sitenow
@@ -3212,6 +3252,10 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/international.uiowa.edu.git'
             profile: sitenow
+        iowacreates.research.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowacreates.research.uiowa.edu.git'
         ise.engineering.uiowa.edu:
             type: custom
             profile: sitenow

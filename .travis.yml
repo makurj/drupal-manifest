@@ -17,3 +17,14 @@ install:
 
 script:
   - ./bin/console lint:yaml .sites.yml
+
+before_deploy:
+  - cp .sites.yml sites.yml
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: true
+  on:
+    branch: master

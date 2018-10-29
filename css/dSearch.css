@@ -1,13 +1,10 @@
 :root {
     --border-color: #d9dde2;
     --text-color: #454545;
+    --focus-color: #00b0ff;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     height: 100vh;
     width: 100vw;
     padding: 0;
@@ -16,52 +13,31 @@ body {
     color: var(--text-color);
 }
 
+.searchbox-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
 #title h1 {
     font-weight: 300;
     font-size: 60px;
     padding: 5px 122px;
-    margin: 0;
-}
-
-#submit-textarea {
-    width: 60px;
-    height: 56px;
-    color: var(--text-color);
-    background-color: transparent;
-    border: 1px solid transparent;
-    border-radius: 50px;
-    font-size: 28px;
-    margin-right: -1px;
-    -webkit-transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -ms-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
-    transition: all 0.2s ease-in-out;
-    -webkit-transition-property: border-color, background-color;
-    -moz-transition-property: border-color, background-color;
-    -ms-transition-property: border-color, background-color;
-    -o-transition-property: border-color, background-color;
-    transition-property: border-color, background-color;
-}
-
-#submit-textarea:hover {
-    border-color: var(--border-color);
-}
-
-#submit-textarea:active {
-    background-color: var(--border-color);
+    text-align: center;
+    margin: 70px 0 0 0;
 }
 
 #searchbox {
     display: flex;
+    justify-content: center;
     margin-bottom: 70px;
-    border-radius: 50px;
-    border: 1px solid var(--border-color);
 }
 
 #outbox {
     font-size: 40px;
     font-weight: 300;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 #site-search {
@@ -70,8 +46,21 @@ body {
     font-weight: 300;
     font-family: 'Raleway', sans-serif;
     padding: 3px 23px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
     border-radius: 50px;
-    border: none;
+    border: 1px solid var(--border-color);
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    transition-property: border-color;
+}
+
+#site-search:focus {
+    outline: none;
+    border-color: var(--focus-color);
 }
 
 @-webkit-keyframes bounce {
@@ -90,4 +79,36 @@ body {
     animation-duration: 1s;
     -webkit-animation-name: bounce;
     animation-name: bounce;
+}
+
+.site {
+    margin: 20px;
+    font-size: 1.4rem;
+    border: 1px solid var(--border-color);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.site h2{
+    font-weight: 400;
+    padding: 5px 10px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.site-info {
+    padding: 10px;
+}
+
+.site h2, .site p{
+    margin: 3px 0;
+}
+
+.site p strong{
+    font-weight: 700;
+}
+
+.site ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
 }

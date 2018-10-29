@@ -1235,10 +1235,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        foodpantry.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         frrbp.medicine.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

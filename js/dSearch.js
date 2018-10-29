@@ -1,80 +1,62 @@
 var data = {};
 
 $(document).ready(function() {
-    setup();
+    data.yamlArray = YAML.load('sites.yml');
+    setTimeout(function() {$('#outbox').removeClass('bounce');}, 1000);
+
+    var search = $('#site-search');
+    search.keyup(function(){
+        searchDocroots($('#site-search').val());
+    });
+
 });
 
-// search for a site in a specific docroot. Returns true if it is, and false if it is not.
+// search for a site in a specific docroot. Returns array of matching docroots.
 function isInDocroot(docroot, site) {
-    return ((Object.keys(docroot)).indexOf(site) > -1);
+    var sites = Object.entries(docroot).filter(function(item, index){
+        return item[0].indexOf(site) > -1
+    })
+    return sites;
 }
 
 function searchDocroots(site) {
-    var output = 'The site you entered is not in a listed docroot.';
+    var output = '';
+    var sitelist = Array();
+    //Confirms the text box is not empty
+    if(site){
+        $.each(data.yamlArray['sites'], function(index, docroot) {
+            var sites = isInDocroot(docroot, site.toLowerCase());
+            if (sites.length > 0) {
+                sites.forEach(function(item){
+                    sitelist.push({'docroot':index, 'site':item[0], 'details':item[1]})
+                })
+            }
+        });
+    }
 
-    $.each(data.yamlArray['sites'], function(index, docroot) {
-        if (isInDocroot(docroot, site.toLowerCase())) {
-            output = index;
-        }
-    });
+    if(sitelist.length > 0){
+        sitelist.forEach(function(item){
+            output += '<div class="site">';
+            output += '<h2>' + item.site + '</h2>';
+            output += '<div class = "site-info"><p><strong>Docroot:</strong> ' + item.docroot + '</p>';
+            output += '<p><strong>Profile:</strong> ' + item.details.profile + '</p>';
+            output += '<p><strong>Git:</strong> ' + item.details.git + '</p>';
+            if (!$.isEmptyObject(item.details.domains)) {
+                output += '<p><strong>Domains:</strong>'
+                output += '<ul><li>Dev:' + item.details.domains.dev + '</li><li>Test:' + item.details.domains.test + '</li><li>Prod:' + item.details.domains.prod + '</li></ul>'
+                output += '</p>';
+            }
+            if(!$.isEmptyObject(item.details.redirects)) { output += '<p><strong>Redirects:</strong> ' + item.details.redirects + '</p>'; }
+            output += '</div></div>';
+        })
+    }
+    else{
+        output = 'No sites found';
+    }
 
     var outbox = $('#outbox');
     outbox.addClass('bounce');
     setTimeout(function() {outbox.removeClass('bounce');}, 1000);
 
-    outbox.html(output);
-}
-
-function fileToText(file) {
-    const reader = new FileReader();
-    reader.readAsText(file);
-    reader.onload = () => {
-        return(reader.result);
-    };
-}
-
-function readTextFile(file)
-{
-    var rawFile = new XMLHttpRequest();
-    rawFile.open("GET", file, false);
-    rawFile.onreadystatechange = function ()
-    {
-        if(rawFile.readyState === 4)
-        {
-            if(rawFile.status === 200 || rawFile.status == 0)
-            {
-                var allText = rawFile.responseText;
-                return(allText);
-            }
-        }
-    }
-
-    rawFile.send(null);
-}
-
-function setup() {
-    try {
-        readTextFile('.sites.yml');
-        data.yamlArray = YAML.load('.sites.yml');
-    }
-    catch(e) {
-        alert('An error occured with loading the Manifest file. Check the console for a more detailed error message.');
-        console.log(e);
-    }
-
-    setTimeout(function() {$('#outbox').removeClass('bounce');}, 1000);
-    var submit = $('#submit-textarea');
-    var search = $('#site-search');
-    submit.click(function(){
-        searchDocroots($('#site-search').val());
-    });
-    search.bind("enterKey",function(e){
-        searchDocroots($('#site-search').val());
-    });
-    search.keydown(function(e){
-        if(e.keyCode == 13)
-        {
-            $(this).trigger("enterKey");
-        }
-    });
+    $('#outbox').html(output);
 }

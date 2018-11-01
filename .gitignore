@@ -2,3 +2,5 @@
  *.sublime-workspace
 .DS_Store
 vendor
+.idea/
+sites.yml

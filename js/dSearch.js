@@ -6,8 +6,10 @@ $(document).ready(function() {
 
     var search = $('#site-search');
     search.keyup(function(){
-        searchDocroots($('#site-search').val());
+        searchDocroots(search.val());
     });
+
+    searchDocroots(search.val());
 
 });
 
@@ -15,32 +17,42 @@ $(document).ready(function() {
 function isInDocroot(docroot, site) {
     var sites = Object.entries(docroot).filter(function(item, index){
         return item[0].indexOf(site) > -1
-    })
+    });
+
     return sites;
 }
 
 function searchDocroots(site) {
     var output = '';
     var sitelist = Array();
-    //Confirms the text box is not empty
-    if(site){
-        $.each(data.yamlArray['sites'], function(index, docroot) {
-            var sites = isInDocroot(docroot, site.toLowerCase());
-            if (sites.length > 0) {
-                sites.forEach(function(item){
-                    sitelist.push({'docroot':index, 'site':item[0], 'details':item[1]})
-                })
-            }
-        });
-    }
+
+    $.each(data.yamlArray['sites'], function(index, docroot) {
+        var sites = isInDocroot(docroot, site.toLowerCase());
+        if (sites.length > 0) {
+            sites.forEach(function(item){
+                sitelist.push({'docroot':index, 'site':item[0], 'details':item[1]})
+            })
+        }
+    });
+
 
     if(sitelist.length > 0){
-        sitelist.forEach(function(item){
+        sitelist.forEach(function(item) {
+
+
             output += '<div class="site">';
-            output += '<h2>' + item.site + '</h2>';
+            if(item.details.git != null) {
+                var gitLink = 'https://' + item.details.git.slice(4, -4).replace(':','/');
+                output += '<h2><a href="' + gitLink + '" rel="noopener noreferrer" target="_blank"><strong>' + item.site + '</strong></a></h2>';
+            }
+            else {
+                output += '<h2><strong>' + item.site + '</strong></h2>';
+            }
+
             output += '<div class = "site-info"><p><strong>Docroot:</strong> ' + item.docroot + '</p>';
             output += '<p><strong>Profile:</strong> ' + item.details.profile + '</p>';
-            output += '<p><strong>Git:</strong> ' + item.details.git + '</p>';
+
+
             if (!$.isEmptyObject(item.details.domains)) {
                 output += '<p><strong>Domains:</strong>'
                 output += '<ul><li>Dev:' + item.details.domains.dev + '</li><li>Test:' + item.details.domains.test + '</li><li>Prod:' + item.details.domains.prod + '</li></ul>'

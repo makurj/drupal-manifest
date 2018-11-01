@@ -2,11 +2,13 @@
     --border-color: #d9dde2;
     --text-color: #454545;
     --focus-color: #00b0ff;
+    --link-color: #037CC2;
+    --body-text-color: #575757;
 }
 
 body {
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     padding: 0;
     margin: 0;
     font-family: 'Raleway', sans-serif;
@@ -33,6 +35,7 @@ body {
 }
 
 #outbox {
+    padding-top: 20px;
     font-size: 40px;
     font-weight: 300;
     display: flex;
@@ -82,21 +85,33 @@ body {
 }
 
 .site {
+    position: relative;
     margin: 20px;
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     border: 1px solid var(--border-color);
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    flex-basis: calc(100% - 40px);
+    overflow: hidden;
 }
 .site h2{
     font-weight: 400;
-    padding: 5px 10px;
+    padding: 10px 15px;
     border-bottom: 1px solid var(--border-color);
+    position: relative;
+}
+
+
+
+.site h2 a{
+    color: var(--link-color);
+    text-decoration: none;
 }
 
 .site-info {
-    padding: 10px;
+    color: var(--body-text-color);
+    padding: 10px 15px;
 }
 
 .site h2, .site p{

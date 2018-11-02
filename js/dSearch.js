@@ -68,18 +68,14 @@ function platformConfigGenerate() {
         yamlArray = YAML.load('manifest.yml');
         platform = 'D8';
         index = 'applications';
-    }
-    catch {
-        // Check if it is D7;
-        try {
-            yamlArray = YAML.load('sites.yml');
-            platform = 'D7';
-            index = 'sites';
-        }
-        catch {
-            console.log('Fatal Error: no manifest file found.');
-        }
-    }
+    } catch {}
+
+    // Check if it is D7;
+    try {
+        yamlArray = YAML.load('sites.yml');
+        platform = 'D7';
+        index = 'sites';
+    } catch {}
 
     // Generate config to pass to
     var config;

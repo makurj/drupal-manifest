@@ -68,24 +68,34 @@ function platformConfigGenerate() {
         yamlArray = YAML.load('manifest.yml');
         platform = 'D8';
         index = 'applications';
-    } catch {}
+
+        // Generate config to pass to
+        var config;
+        config = {
+            platform: platform,
+            index: index,
+            yamlArray: yamlArray
+        };
+
+        return(config);
+    } catch {console.log('Failure to load D8 manifest');}
 
     // Check if it is D7;
     try {
         yamlArray = YAML.load('sites.yml');
         platform = 'D7';
         index = 'sites';
-    } catch {}
 
-    // Generate config to pass to
-    var config;
-    config = {
-        platform: platform,
-        index: index,
-        yamlArray: yamlArray
-    };
+        // Generate config to pass to
+        var config;
+        config = {
+            platform: platform,
+            index: index,
+            yamlArray: yamlArray
+        };
 
-    return(config);
+        return(config);
+    } catch {console.log('Failure to load D7 manifest');}
 }
 
 // This function is built for printing the body of D8 sites.

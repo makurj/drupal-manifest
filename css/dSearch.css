@@ -3,7 +3,7 @@
     --text-color: #454545;
     --focus-color: #00b0ff;
     --link-color: #037CC2;
-    --body-text-color: #575757;
+    --body-text-color: #414141;
 }
 
 body {
@@ -101,8 +101,6 @@ body {
     border-bottom: 1px solid var(--border-color);
     position: relative;
 }
-
-
 
 .site h2 a{
     color: var(--link-color);

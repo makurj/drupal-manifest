@@ -59,43 +59,46 @@ function searchDocroots(site) {
 
 // Detect the platform we are on and return generated configuration for the search based on that.
 function platformConfigGenerate() {
-    var platform;
-    var yamlArray;
-    var index;
+    var config = 'empty';
 
-    // Check if it is D8;
-    try {
-        yamlArray = YAML.load('manifest.yml');
-        platform = 'D8';
-        index = 'applications';
+    if (config === 'empty') {
+        // Check if it is D8;
+        try {
+            var yamlArray = YAML.load('manifest.yml');
 
-        // Generate config to pass to
-        var config;
-        config = {
-            platform: platform,
-            index: index,
-            yamlArray: yamlArray
-        };
+            if (yamlArray != null) {
+                // Generate config to pass to
+                config = {
+                    platform: 'D8',
+                    index: 'applications',
+                    yamlArray: yamlArray
+                };
 
-        return(config);
-    } catch {console.log('Failure to load D8 manifest');}
+                console.log('Loaded D8 Manifest.');
+            }
+        } catch {}
+    }
 
-    // Check if it is D7;
-    try {
-        yamlArray = YAML.load('sites.yml');
-        platform = 'D7';
-        index = 'sites';
+    if (config === 'empty') {
+        // Check if it is D7;
+        try {
+            var yamlArray = YAML.load('sites.yml');
 
-        // Generate config to pass to
-        var config;
-        config = {
-            platform: platform,
-            index: index,
-            yamlArray: yamlArray
-        };
 
-        return(config);
-    } catch {console.log('Failure to load D7 manifest');}
+            if (yamlArray != null) {
+                // Generate config to pass to
+                config = {
+                    platform: 'D7',
+                    index: 'sites',
+                    yamlArray: yamlArray
+                };
+
+                console.log('Loaded D7 Manifest.');
+            }
+        } catch {}
+    }
+
+    return config;
 }
 
 // This function is built for printing the body of D8 sites.

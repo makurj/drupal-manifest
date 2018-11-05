@@ -125,3 +125,7 @@ body {
     margin: 0;
     list-style-type: none;
 }
+
+p {
+    margin: 0;
+}

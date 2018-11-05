@@ -2608,6 +2608,10 @@ sites:
             drush-groups:
                 - uihc_labs
     uiowa702:
+        innovation.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: innovation.uiowa.edu
         www.facilities.uiowa.edu:
             type: custom
             profile: sitenow

@@ -3,21 +3,24 @@ var data = {};
 $(document).ready(function() {
     data = platformConfigGenerate();
     setTimeout(function() {$('#outbox').removeClass('bounce');}, 1000);
+    filter_uiowa_domains_behavior_attach();
 
     var search = $('#site-search');
     search.keyup(function(){
         searchDocroots(search.val());
     });
 
+    // Do this last.
     searchDocroots(search.val());
 });
 
 // Search for a site in a specific docroot. Returns array of matching docroots.
 function isInDocroot(docroot, site) {
-    var sites = Object.entries(docroot).filter(function(item, index){
-        return item[0].indexOf(site) > -1
+    var sites = Object.entries(docroot).filter(function(item, index) {
+        var filter = item[0].indexOf(site) > -1;
+        var filter_ui_domains = data.filter_ui_domains ? item[0].indexOf('uiowa.edu') < 0: true;
+        return (filter && filter_ui_domains);
     });
-
     return sites;
 }
 
@@ -155,4 +158,11 @@ function D7Print(sitelist) {
     });
 
     return output;
+}
+
+function filter_uiowa_domains_behavior_attach() {
+    $('input[type=checkbox].switch_1').change(function() {
+        data.filter_ui_domains = this.checked;
+        searchDocroots($('#site-search').val());
+    });
 }

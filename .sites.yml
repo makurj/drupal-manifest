@@ -2611,7 +2611,7 @@ sites:
         innovation.uiowa.edu:
             type: custom
             profile: sitenow
-            git: innovation.uiowa.edu
+            git: 'git@github.com:ITS-UofIowa/innovation.uiowa.edu.git'
         www.facilities.uiowa.edu:
             type: custom
             profile: sitenow

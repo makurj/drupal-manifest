@@ -4,9 +4,9 @@
     text-decoration: none;
     font-size: 2em;
     color: rgba(0, 0, 0, 0.61);
-    -webkit-transition: all 0.2s ease-out;
-    -moz-transition: all 0.2s ease-out;
-    transition: all 0.2s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
     position: fixed;
     top: 20px;
     left: 20px;
@@ -17,11 +17,11 @@
 .sidebar {
     border: 1px solid #dddddd;
     position: fixed;
-    top: 0px;
+    top: 60px;
     left: -350px;
-    -webkit-transition: all 0.2s ease-out;
-    -moz-transition: all 0.2s ease-out;
-    transition: all 0.2s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
     width: 300px;
     padding: 1.5em;
     background: #fafafa;
@@ -53,12 +53,46 @@
 }
 
 #slide:checked + .container .toggle {
-    left: 370px;
+
 }
+
+
+
+.container .menu {
+    transform: rotate(0deg);
+    opacity: 1;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+#slide:checked + .container .menu {
+    transform: rotate(45deg);
+    opacity: 0;
+}
+
+.container .close {
+    transform: rotate(-45deg);
+    opacity: 0;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+#slide:checked + .container .close {
+    transform: rotate(0deg);
+    opacity: 1;
+}
+
 
 
 #slide {
     display: none;
     transition: all 0.2s ease-out;
     width: 300px;
+}
+
+.material-icons {
+    position: absolute;
+    left: 0;
 }

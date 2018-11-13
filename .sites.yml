@@ -1413,12 +1413,20 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        hpproject.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         huang.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null
             drush-groups:
                 - uihc_labs
+        hultman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         humangames.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1871,6 +1879,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            drush-groups:
+                - uihc_labs
         ostem.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

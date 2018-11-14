@@ -3462,10 +3462,6 @@ sites:
             profile: sitenow
             redirects:
                 - www.shl.uiowa.edu
-        strength.sports.uiowa.edu:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/strength.sports.uiowa.edu.git'
-            profile: sitenow
         tax.fo.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/tax.fo.uiowa.edu.git'

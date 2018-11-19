@@ -405,12 +405,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/itshdtest
-        uiowa.edu/jmpec:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/jmpec
         uiowa.edu/laundry:
             type: standard
             profile: sitenow_standard_profile

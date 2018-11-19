@@ -1545,6 +1545,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        jmusedavis.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         jprineas.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

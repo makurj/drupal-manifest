@@ -1023,10 +1023,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        cloudservices.its.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         clp.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -3062,6 +3058,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/classrooms.uiowa.edu.git'
             redirects:
                 - www.classrooms.uiowa.edu
+        cloudservices.its.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         cmrf.research.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/cmrf.research.uiowa.edu.git'

@@ -979,6 +979,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        butali.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         butler.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1888,6 +1892,10 @@ sites:
             profile: sitenow_standard_profile
             git: null
         outreach.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        paphi.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

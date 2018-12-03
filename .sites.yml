@@ -2684,10 +2684,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        collaboratory.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         commencement.uiowa.edu:
             type: custom
             profile: sitenow

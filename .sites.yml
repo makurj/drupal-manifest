@@ -2899,6 +2899,12 @@ sites:
             type: custom
             profile: sitenow
             git: 'git@github.com:ITS-UofIowa/masterplan.facilities.uiowa.edu.git'
+        midwestregionburn.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         naa2019.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -2959,6 +2959,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/teachonline.uiowa.edu.git'
             redirects:
                 - facultysupport.distance.uiowa.edu
+        thelightbox.radiology.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/thelightbox.radiology.uiowa.edu.git'
         tme2018.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

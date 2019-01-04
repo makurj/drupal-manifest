@@ -2095,10 +2095,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        rowing.org.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         rugby.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -2688,10 +2688,6 @@ sites:
             git: 'git@github.com:ITS-UofIowa/chsciowa.org.git'
             redirects:
                 - www.chsciowa.org
-                - chscia.org
-                - www.chscia.org
-                - childhealthspecialtyclinics.org
-                - www.childhealthspecialtyclinics.org
         cio.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

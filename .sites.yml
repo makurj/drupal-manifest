@@ -1327,6 +1327,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        guymon.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         haar.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

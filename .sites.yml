@@ -2680,6 +2680,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        b1gchiefsanddirectors.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         centerforconferences.uiowa.edu:
             type: custom
             profile: sitenow

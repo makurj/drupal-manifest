@@ -171,12 +171,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/critical-incident-plan
-        uiowa.edu/csw:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/csw
         uiowa.edu/cvrs:
             type: standard
             profile: sitenow_standard_profile

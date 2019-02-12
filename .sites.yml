@@ -1301,6 +1301,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        glykys.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         grobe.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

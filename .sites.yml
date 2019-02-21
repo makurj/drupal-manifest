@@ -1671,6 +1671,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        lungimaging.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         lynda.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/lynda.uiowa.edu.git'

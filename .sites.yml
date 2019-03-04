@@ -2635,12 +2635,6 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
-        zhang.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            drush-groups:
-                - uihc_labs
         zhao.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

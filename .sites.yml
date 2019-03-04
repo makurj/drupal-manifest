@@ -1029,6 +1029,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        cho.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
         clp.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1536,6 +1542,12 @@ sites:
             profile: sitenow_standard_profile
             git: null
         jabbari.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        jalal.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

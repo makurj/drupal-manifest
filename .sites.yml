@@ -1327,6 +1327,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        growingwords.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         grumbach.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -1735,6 +1739,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        martingroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         masongroup.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2555,6 +2563,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        williamsgroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         willour.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

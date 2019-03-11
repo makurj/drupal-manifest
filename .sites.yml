@@ -3156,12 +3156,6 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/dining.uiowa.edu.git'
             profile: sitenow
-        discover.research.uiowa.edu:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/discover.research.uiowa.edu.git'
-            profile: sitenow
-            drush-groups:
-                - ovpred_suite
         distance.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/distance.uiowa.edu.git'

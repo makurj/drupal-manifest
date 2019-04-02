@@ -1789,6 +1789,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        messingham.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         michaelson.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2565,6 +2569,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        wesselresearchworkshop.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         wics.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

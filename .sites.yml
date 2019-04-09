@@ -2465,10 +2465,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        uisrmsymposium.sites.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         uitransalliance.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

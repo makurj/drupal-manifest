@@ -2317,6 +2317,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        stefan-wang.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         stevens.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

@@ -1035,6 +1035,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        cinema1968.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         clp.law.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

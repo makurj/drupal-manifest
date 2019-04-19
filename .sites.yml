@@ -965,6 +965,8 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+            redirects:
+                - wesselresearchworkshop.sites.uiowa.edu
         brenner.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2589,10 +2591,6 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
-        wesselresearchworkshop.sites.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         wics.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

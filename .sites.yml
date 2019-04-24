@@ -2885,6 +2885,12 @@ sites:
             git: 'git@github.com:ITS-UofIowa/iexplorestem.org.git'
             redirects:
                 - www.iexplorestem.org
+        iipc.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         iniworkshop.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

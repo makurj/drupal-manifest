@@ -1325,6 +1325,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        globalwealth.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         glykys.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

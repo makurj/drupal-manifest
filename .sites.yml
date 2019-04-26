@@ -883,6 +883,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        bakerlab.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         ballas.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

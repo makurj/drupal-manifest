@@ -3116,10 +3116,6 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/arts.uiowa.edu.git'
             profile: sitenow
-        artshare.uiowa.edu:
-            type: custom
-            git: 'git@github.com:ITS-UofIowa/artshare.uiowa.edu.git'
-            profile: sitenow
         basbls.uc.uiowa.edu:
             type: custom
             profile: sitenow
@@ -3478,6 +3474,8 @@ sites:
             type: custom
             git: 'git@github.com:ITS-UofIowa/outreach.uiowa.edu.git'
             profile: sitenow
+            redirects:
+                - artshare.uiowa.edu
         osc.uiowa.edu:
             type: custom
             profile: sitenow

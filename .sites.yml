@@ -1613,7 +1613,7 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
-        kee-ho-yuen.sites.uiowa.edu
+        kee-ho-yuen.sites.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

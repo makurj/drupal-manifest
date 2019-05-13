@@ -1277,6 +1277,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        gaad.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         geerling.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

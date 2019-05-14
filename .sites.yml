@@ -375,12 +375,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/iowacancermaps2
-        uiowa.edu/iowalatinoconference:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/iowalatinoconference
         uiowa.edu/ippl:
             type: standard
             profile: sitenow_standard_profile

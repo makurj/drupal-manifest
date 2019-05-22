@@ -1009,10 +1009,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        ccad.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         celp.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

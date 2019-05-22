@@ -2786,6 +2786,12 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        www.ccad.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - ccad.uiowa.edu
         centerforconferences.uiowa.edu:
             type: custom
             profile: sitenow

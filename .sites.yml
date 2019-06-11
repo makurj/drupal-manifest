@@ -2935,7 +2935,7 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-            dursh-groups:
+            drush-groups:
                 - cfc_suite
         iowacap.org:
             type: custom

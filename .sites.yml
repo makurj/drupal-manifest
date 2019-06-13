@@ -3067,6 +3067,10 @@ sites:
             git: null
             redirects:
                 - www.oldcapitolfutures.com
+        oldcapitoltennis.com:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         pappajohnentrepreneurialventurecompetition.com:
             type: custom
             profile: sitenow

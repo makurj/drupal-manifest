@@ -2523,6 +2523,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        uiugf.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         umallik.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

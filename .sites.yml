@@ -3074,8 +3074,7 @@ sites:
             profile: sitenow_standard_profile
             git: null
             redirects:
-                - www.oldcapitolfutures.com
-                - oldcapitolfutures.com
+                - www.oldcapitoltennis.com
         pappajohnentrepreneurialventurecompetition.com:
             type: custom
             profile: sitenow

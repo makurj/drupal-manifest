@@ -283,10 +283,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/generalstores
-        uiowa.edu/gis:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         uiowa.edu/haa:
             type: standard
             profile: sitenow_standard_profile

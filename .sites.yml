@@ -288,7 +288,7 @@ sites:
             profile: sitenow_standard_profile
             git: null
             redirects:
-                - www.uiowa.edu/gis
+                - gis.sites.uiowa.edu
         uiowa.edu/haa:
             type: standard
             profile: sitenow_standard_profile

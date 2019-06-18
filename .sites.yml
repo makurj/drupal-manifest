@@ -283,7 +283,7 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/generalstores
-        uiowa.edu/gis:
+        uiowa.edu/:
             type: standard
             profile: sitenow_standard_profile
             git: null
@@ -1314,10 +1314,6 @@ sites:
             drush-groups:
                 - uihc_labs
         gilbertson-white.lab.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-        gis.sites.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
             git: null

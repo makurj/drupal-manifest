@@ -3047,10 +3047,6 @@ sites:
             git: null
             redirects:
                 - www.molcellcog.org
-        brian.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         naa2019.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

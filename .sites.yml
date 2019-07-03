@@ -3458,6 +3458,10 @@ sites:
             git: 'git@github.com:ITS-UofIowa/law.uiowa.edu.git'
             redirects:
                 - www.law.uiowa.edu
+        liberalartsbeyondbars.uc.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         library.law.uiowa.edu:
             type: custom
             git: 'git@github.com:ITS-UofIowa/library.law.uiowa.edu.git'

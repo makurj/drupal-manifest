@@ -1869,6 +1869,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        msl.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         musicianshpd.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

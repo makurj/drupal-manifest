@@ -2923,6 +2923,10 @@ sites:
             git: null
             redirects:
                 - idcard.fo.uiowa.edu
+        idrs2020.org:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         iexplorestem.org:
             type: custom
             profile: sitenow

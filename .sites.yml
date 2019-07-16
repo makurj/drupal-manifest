@@ -795,6 +795,10 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
+        aldridge.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         allen.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

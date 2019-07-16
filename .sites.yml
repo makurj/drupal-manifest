@@ -459,12 +459,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/ncbi-conference-2017
-        uiowa.edu/news-release-archives:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/news-release-archives
         uiowa.edu/nsfcyberinfrastructure:
             type: standard
             profile: sitenow_standard_profile

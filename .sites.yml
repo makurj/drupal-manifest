@@ -483,12 +483,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/pad
-        uiowa.edu/parent-times-archives:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/parent-times-archives
         uiowa.edu/pasttense:
             type: standard
             profile: sitenow_standard_profile

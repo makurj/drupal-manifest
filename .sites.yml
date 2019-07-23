@@ -1213,6 +1213,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        federalcriminaldefenseclinic.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         felder.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

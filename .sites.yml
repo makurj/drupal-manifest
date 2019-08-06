@@ -447,12 +447,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/nsfcyberinfrastructure
-        uiowa.edu/nursing-dean-search:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/nursing-dean-search
         uiowa.edu/ombuds:
             type: standard
             profile: sitenow_standard_profile

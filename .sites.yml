@@ -375,12 +375,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/laundry
-        uiowa.edu/law-dean-search:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/law-dean-search
         uiowa.edu/ldg:
             type: standard
             profile: sitenow_standard_profile

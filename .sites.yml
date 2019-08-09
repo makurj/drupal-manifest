@@ -3023,6 +3023,12 @@ sites:
             git: null
             drush-groups:
                 - cfc_suite
+        nasscfl2020.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
         newview.io:
             type: custom
             profile: sitenow

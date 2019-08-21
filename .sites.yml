@@ -1147,10 +1147,6 @@ sites:
             type: standard
             profile: sitenow_standard_profile
             git: null
-        enhanced-imaging.uiowa.edu:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
         epx.org.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile
@@ -2825,6 +2821,10 @@ sites:
             redirects:
                 - e.uiowa.edu
                 - www.emergency.uiowa.edu
+        enhanced-imaging.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         familyphysician.centerforconferences.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

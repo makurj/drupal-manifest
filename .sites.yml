@@ -559,12 +559,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/tea
-        uiowa.edu/tristem:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/tristem
         uiowa.edu/ui-lsamp-iinspire:
             type: standard
             profile: sitenow_standard_profile

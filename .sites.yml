@@ -511,12 +511,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/sitenow-default-theme
-        uiowa.edu/sitenow-lab-theme:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/sitenow-lab-theme
         uiowa.edu/sitenow-stellar-theme:
             type: standard
             profile: sitenow_standard_profile

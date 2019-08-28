@@ -613,12 +613,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/voice-academy
-        uiowa.edu/vpma-dean-search:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/vpma-dean-search
         uiowa.edu/wise:
             type: standard
             profile: sitenow_standard_profile

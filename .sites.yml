@@ -967,6 +967,10 @@ sites:
             git: null
             drush-groups:
                 - uihc_labs
+        communication-memory-mind.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
         copstudy.lab.uiowa.edu:
             type: standard
             profile: sitenow_standard_profile

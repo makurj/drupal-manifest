@@ -369,12 +369,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/legalclinic
-        uiowa.edu/lift:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/lift
         uiowa.edu/manuscript-materiality:
             type: standard
             profile: sitenow_standard_profile

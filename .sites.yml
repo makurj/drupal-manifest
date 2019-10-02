@@ -477,12 +477,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/sbirt
-        uiowa.edu/seru:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/seru
         uiowa.edu/shakespeareiniowa:
             type: standard
             profile: sitenow_standard_profile

@@ -2861,10 +2861,6 @@ sites:
             git: null
             drush-groups:
                 - cfc_suite
-        iowacap.org:
-            type: custom
-            profile: sitenow
-            git: 'git@github.com:ITS-UofIowa/iowacap.org.git'
         iowalionseyebank.org:
             type: custom
             profile: sitenow

@@ -423,12 +423,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/pad
-        uiowa.edu/pasttense:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/pasttense
         uiowa.edu/pinyin:
             type: standard
             profile: sitenow_standard_profile

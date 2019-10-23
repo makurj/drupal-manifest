@@ -381,12 +381,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/mmpc
-        uiowa.edu/mspd-checkout:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/mspd-checkout
         uiowa.edu/mturkexp:
             type: standard
             profile: sitenow_standard_profile

@@ -1,0 +1,3600 @@
+sites:
+    uiowa701:
+        uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.uiowa.edu
+                - frontier.uiowa.edu
+        uiowa.edu/acad-org-2020:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiowa.edu/accel:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiowa.edu/africanamericancouncil:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/africanamericancouncil
+        uiowa.edu/afrotc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/afrotc
+        uiowa.edu/ap-purchasing:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ap-purchasing
+        uiowa.edu/armyrotc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/armyrotc
+        uiowa.edu/assist:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/assist
+        uiowa.edu/audit:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/audit
+        uiowa.edu/bands:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/bands
+        uiowa.edu/businessmanager:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/businessmanager
+        uiowa.edu/businsvc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/businsvc
+        uiowa.edu/calvin:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/calvin
+        uiowa.edu/cda:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/cda
+        uiowa.edu/celebrationofexcellence:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/celebrationofexcellence
+        uiowa.edu/chs:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/chs
+        uiowa.edu/climatecollective:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/climatecollective
+        uiowa.edu/cnm:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/cnm
+        uiowa.edu/coepe:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/coepe
+        uiowa.edu/collect:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/collect
+        uiowa.edu/compliance:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/compliance
+        uiowa.edu/conflictmanagement:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/conflictmanagement
+        uiowa.edu/cot:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/cot
+        uiowa.edu/cpl:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/cpl
+        uiowa.edu/crisp:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/crisp
+        uiowa.edu/critical-incident-plan:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/critical-incident-plan
+        uiowa.edu/cvrs:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/cvrs
+        uiowa.edu/datascience:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/datascience
+        uiowa.edu/debate:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/debate
+        uiowa.edu/designcenter:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/designcenter
+        uiowa.edu/diversitychartercommittee:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/diversitychartercommittee
+        uiowa.edu/drumhawk:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/drumhawk
+        uiowa.edu/eforms:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/eforms
+        uiowa.edu/emeritusfaculty:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/emeritusfaculty
+        uiowa.edu/enterpriseriskmanagement:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/enterpriseriskmanagement
+        uiowa.edu/equityimplemented:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiowa.edu/facultysenate:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/facultysenate
+        uiowa.edu/fallgiving:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/fallgiving
+        uiowa.edu/fbis:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/fbis
+        uiowa.edu/ficc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ficc
+        uiowa.edu/flares:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/flares
+        uiowa.edu/fric:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/fric
+        uiowa.edu/generalstores:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/generalstores
+        uiowa.edu/haa:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/haa
+        uiowa.edu/higheredandsuccessfulreentry:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/higheredandsuccessfulreentry
+        uiowa.edu/hmb:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/hmb
+        uiowa.edu/honorarydegrees:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/honorarydegrees
+        uiowa.edu/horn:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/horn
+        uiowa.edu/icru:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/icru
+        uiowa.edu/igem:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiowa.edu/ilg:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ilg
+        uiowa.edu/indiancinema:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/indiancinema
+        uiowa.edu/influenza:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/influenza
+        uiowa.edu/informatics-computational-psychiatry-symposium:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiowa.edu/informaticsshowcase:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/informaticsshowcase
+        uiowa.edu/intermediatechinesereader:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/intermediatechinesereader
+        uiowa.edu/ionrp:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ionrp
+        uiowa.edu/iowacancermaps2:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/iowacancermaps2
+        uiowa.edu/ippl:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ippl
+        uiowa.edu/ismc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ismc
+        uiowa.edu/itshdtest:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/itshdtest
+        uiowa.edu/laundry:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/laundry
+        uiowa.edu/legalclinic:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/legalclinic
+        uiowa.edu/manuscript-materiality:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/manuscript-materiality
+        uiowa.edu/mmpc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/mmpc
+        uiowa.edu/mturkexp:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/mturkexp
+        uiowa.edu/mural-film:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/mural-film
+        uiowa.edu/museumstudies:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/museumstudies
+        uiowa.edu/nac:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/nac
+        uiowa.edu/nsfcyberinfrastructure:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/nsfcyberinfrastructure
+        uiowa.edu/ombuds:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ombuds
+        uiowa.edu/pad:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/pad
+        uiowa.edu/pasttense:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/pasttense
+        uiowa.edu/pinyin:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/pinyin
+        uiowa.edu/planning-and-development:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/planning-and-development
+        uiowa.edu/postsecular-novel:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/postsecular-novel
+        uiowa.edu/rcedoc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/rcedoc
+        uiowa.edu/riskmanagement:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/riskmanagement
+        uiowa.edu/sbirt:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/sbirt
+        uiowa.edu/shakespeareiniowa:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/shakespeareiniowa
+        uiowa.edu/sitenow-default-theme:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/sitenow-default-theme
+        uiowa.edu/social-justice-resources-k12-teachers:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/social-justice-resources-k12-teachers
+        uiowa.edu/statefair:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/statefair
+        uiowa.edu/stem:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/stem
+        uiowa.edu/stories:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/uiowa.edu.stories.git'
+            redirects:
+                - www.uiowa.edu/stories
+        uiowa.edu/summerdatascience:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/summerdatascience
+        uiowa.edu/surplus:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/surplus
+        uiowa.edu/tamil:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/tamil
+        uiowa.edu/tea:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/tea
+        uiowa.edu/ui-lsamp-iinspire:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ui-lsamp-iinspire
+        uiowa.edu/uiadvise:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/uiadvise
+        uiowa.edu/uifirstkiss:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/uifirstkiss
+        uiowa.edu/uilatinocouncil:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/uilatinocouncil
+        uiowa.edu/uiobl:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/uiobl
+        uiowa.edu/ui-trans-resources:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/ui-trans-resources
+        uiowa.edu/university-shared-services:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/university-shared-services
+        uiowa.edu/uwc:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/uwc
+        uiowa.edu/voice-academy:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/voice-academy
+        uiowa.edu/wise:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/wise
+        uiowa.edu/wni:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/wni
+        uiowa.edu/yeastdrugs:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.uiowa.edu/yeastdrugs
+        3ddesign.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        4cast.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        aaup.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        abboud.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        abel.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        acce.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        accessibility101.course.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        acm.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        actonhealth.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        adams.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        ahmad.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        aiche.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ailp.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        aldridge.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        allen.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        amendt.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        amy-lee.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ankrum.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        anthony.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        apalsa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        apo.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        arabstudentsassociation.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        arh.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        asme.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        atasoy.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        attanasio.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        au.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        auditoryelectrophysiology.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        badovinac.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        baker.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        bakerlab.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ballas.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        banfi.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        bap.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        barker.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        bassukferguson.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        baumbach.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        beckergroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        benson.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        bipolardisorders.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        bishop.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        blackart.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        blsa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        boes.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        boudreau.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        brahma.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        brainworkshop.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - wesselresearchworkshop.sites.uiowa.edu
+        brenner.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        brogden.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        buchanan.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        butali.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        butler.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        campbell.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        campus-data.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cbml.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        celp.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        chapleau.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        chauhan.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        chemsafe.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        chen.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        cherwin.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cho.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        cinema1968.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        clp.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cognitive-brain.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        colgan.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        colin-gordon.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        colleen-campbell.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        communication-memory-mind.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        copstudy.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cpl.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        cromwell.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cssa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cui.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        cycling.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cynthia-hernandez.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cytogenetics.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        dai.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        dale-stille.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        davidplowden.studio.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        davies.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        dayal.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        deltachapterdst.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        demali.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        demir-lira.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        deroo.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        diekema.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        dodd.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        econsent.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        edoncampus.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ejf.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        elcock.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        elliott.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        empirical.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        engelhardt.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        english-society.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        epx.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        etc.engineering.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        evaluation.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        externships.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        fab.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        faraci.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        federalcriminaldefenseclinic.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        felder.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        fethke.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        fiedorowicz.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        fisher.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        fluids.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        frrbp.medicine.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        fskiff.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ftoor.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        fuentes.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        gaad.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        geerling.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        gel.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        genetics.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        geyer.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        ghs.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        giangrande.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        gilbertson-white.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        giudici.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        glaucomacellbiology.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        glaucomagenetics.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        globalwealth.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        glykys.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        grobe.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        grose.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        growingwords.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        grumbach.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        gurung.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        guymon.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        haar.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hackiowa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        habelhah.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        han.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        harty.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        harwani.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        haskell.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        hawkalert.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hawkeyeoptimistchapter.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hawktools.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/hawktools.uiowa.edu.git'
+            profile: sitenow
+        heaar.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hefti.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        herkycares.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hodgson-zingman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        hope.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hoth.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        hornbuckle.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hpproject.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        huang.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        hultman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        humangames.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        i3hsa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ibl.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ieee.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ifsae.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        igc.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        imai.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        imarc.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        immigrantrefugeehealth.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ince.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        internet.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        interprofessional.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.interprofessional.uiowa.edu
+        inventionofwriting.course.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        iowabrainbank.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        iowavirology2019.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ioword.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ipchinaroadshow.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        irani.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        itaccessibility.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        itcommunities.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        itmaturitymodels.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        itsonus.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        jabbari.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        jalal.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        jcl.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        jgrj.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        jian-zhang.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        jiang.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        jmusedavis.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        jprineas.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        karandikar.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        kee-ho-yuen.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        kflinn-sandbox.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        kidneeds.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        klesney-tait.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        kristensen.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        kwitek.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        laborcenter.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        lal.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        lamping.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        laroche.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        lbaas-sandbox.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        lee.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        legge.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        lgbtqsf.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        limoli.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        lira.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        liu.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        lhand.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        london.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        lungimaging.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        lynda.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/lynda.uiowa.edu.git'
+            profile: sitenow
+        m-ashley-spies.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mangalam.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mapps.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        maps.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        marcinkiewcz.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        maretzky.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        maria-spies.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mark.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        martingroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        masongroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        matthew-arndt.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        mccray.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mccrory.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        mcelroy.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mcgowan.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mcnamara.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        meier.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mensvolleyball.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        messingham.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        michaelson.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mickelsen.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mil.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        miles.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        mindfulatiowa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        mipl-roc.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        mokadem.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        moore.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        morl.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        msl.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        musicianshpd.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        musselman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        mssui.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        naacp-iowacity.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        narayanan.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        nasa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        nauseef.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        ncbc.medicine.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        newell.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        nguyenresearchgroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        nhlp.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        niciu.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        nizar.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        nonnenmann.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        nopoulos.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        nsr.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        oasis.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        obgynprotocols.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        onefinance.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        oneill.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        oniowa.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/oniowa.uiowa.edu.git'
+            profile: sitenow
+        orsc-colloquium.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ortega.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        ostem.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        outlaws.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        outreach.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        parekh.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        parker.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        paulsen.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        pcit.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        pediatricaudiology.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        pennathur.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        perception.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - perception.radiology.uiowa.edu
+        perinatalhealth.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        perlman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        peters.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        petersen.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        piper.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        pieper.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        pierce.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        potthoff.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        predict-hd.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.predict-hd.net
+            drush-groups:
+                - uihc_labs
+        price.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        productdesignstudio.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        pso.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        psp.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        pufall.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        psycholinguistics.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        qi.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        quelle.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        radiologycore.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        radley.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        radoshevich.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        rahmouni.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        randak.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        ratner.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        reinhardt.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        religion-secularism-novel.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        richerson.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        roar.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        robert-weiss.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        robertson.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        roco.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        roghair.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        rohlman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        roman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        rugby.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        russian-folklore.course.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        russo.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        sabharwal.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        sah.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        salem.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        salgadopabon.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        sanderlab.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        saxophone.studio.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        schnieders.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        sebag.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        shared-governance.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        shawgroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        shea.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        shepherdgroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        shinozaki.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        shpe.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        sigmaalphaiota.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        sigmund.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        simonsburnett.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        sinfonia.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        singh.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        sinn.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        sipe.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        sitenow.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/sitenow.uiowa.edu.git'
+            profile: sitenow
+        sits.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        sivitz.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        slingala.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        smubeen.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        snyder.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        song.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        spectrumui.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        staff-council.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        stapleton.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        star.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        stephens.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        stefan-wang.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        stevens.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        stoltz.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        strack.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        strathearn.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        talman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        tanas.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        taylor.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        tco.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        techforum.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        tedabel.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        thiel.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        thomas.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        tivanskigroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        tkd.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        tlcp.law.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        tranel.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        translateiowa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        transparency.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        trapp.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        trihawks.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        trumpet.studio.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        turkish.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uefauiowa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uibestbuddies.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiems.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uienvironmentalcoalition.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uimsa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uinasa.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiowaclubglax.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiowagammas.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uipaws.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiphotography.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uira.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uirobotics.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uisafe.clas.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uisrmsymposium.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uisug.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uitransalliance.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        uiugf.sites.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        umallik.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        urocomp.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        usachev.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        vandervelde.studio.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/vandervelde.studio.uiowa.edu.git'
+            profile: sitenow
+        varga.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        venanzio.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        victorianfboos.studio.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        vmueller-sandbox.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        wahls.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        waldschmidt.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        wallrath.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        washington.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        wassink.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        weber.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        weeks.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        wei.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        weiner.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        weiss.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        wemmie.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        williams.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        williamsresearch.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        williamsgroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        willour.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        wilson.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        witry.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        wohlgenannt.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        wold.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        womensicehockey.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        worthington.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        wrl.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        wulab.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        yaf.org.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        yahr.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        yang.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        yannickmeuricegroup.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        yorek.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        young.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        zabner.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        zaheer.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        zhan.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        zhao.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+        zingman.lab.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - uihc_labs
+    uiowa702:
+        innovation.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/innovation.uiowa.edu.git'
+        www.facilities.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/facilities.uiowa.edu.git'
+            redirects:
+                - facilities.uiowa.edu
+        mnh.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        oldcap.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        120thcelebration.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        a-p-course.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        aasog2019.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        automated.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        b1gchiefsanddirectors.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        www.ccad.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - ccad.uiowa.edu
+        centerforconferences.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/centerforconferences.uiowa.edu.git'
+            drush-groups:
+                - cfc_suite
+        chsciowa.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/chsciowa.org.git'
+            redirects:
+                - www.chsciowa.org
+        cio.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        commencement.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:/ITS-UofIowa/commencement.uiowa.edu'
+        content.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/content.uiowa.edu.git'
+        csomaycenter.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ctsdmc.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/ctsdmc.uiowa.edu.git'
+        drivingassessment.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        emergency.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/emergency.uiowa.edu.git'
+            redirects:
+                - e.uiowa.edu
+                - www.emergency.uiowa.edu
+        enhanced-imaging.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        familyphysician.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        features.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/features.uiowa.edu.git'
+        firstgen.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        geriatricpain.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/geriatricpain.org.git'
+            redirects:
+                - www.geriatricpain.org
+        hawkeyecaucus.com:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/hawkeyecaucus.com.git'
+            redirects:
+                - www.hawkeyecaucus.com
+        hawkit.sports.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        hcccretreat.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        hrandbusiness.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        www.humanitiesiowa.org:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - humanitiesiowa.org
+        iaapt.us:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.iaapt.us
+        iapt.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        icfm2020.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/icfm2020.org.git'
+            drush-groups:
+                - cfc_suite
+        idcard.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - idcard.fo.uiowa.edu
+        idrs2020.org:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        iexplorestem.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iexplorestem.org.git'
+            redirects:
+                - www.iexplorestem.org
+        iipc.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        iniworkshop.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        iniworkshop2019.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        iowalionseyebank.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowalionseyebank.org.git'
+            redirects:
+                - www.iowalionseyebank.org
+        iowareview.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowareview.org.git'
+            redirects:
+                - www.iowareview.org
+        iowahumanrights.org:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.iowahumanrights.org
+        www.iowajpec.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowajpec.org.git'
+            redirects:
+                - iowajpec.org
+        iowamade.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowamade.org.git'
+            redirects:
+                - www.iowamade.org
+        intranet.oneit.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/intranet.oneit.uiowa.edu.git'
+        iowalakesidelab.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowalakesidelab.org.git'
+            redirects:
+                - www.iowalakesidelab.org
+        iowareadingresearch.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowareadingresearch.org.git'
+            redirects:
+                - www.iowareadingresearch.org
+        iowasummerwritingfestival.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowasummerwritingfestival.org.git'
+            redirects:
+                - www.iowasummerwritingfestival.org
+        iowateacherintern.org:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        ips2017.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        isv2019.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        jacobsoninstitute.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/jacobsoninstitute.org.git'
+            redirects:
+                - www.jacobsoninstitute.org
+        lapd2019.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        marce2020.com:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/marce2020.com.git'
+            redirects:
+                - www.marce2020.com
+            drush-groups:
+                - cfc_suite
+        masterplan.facilities.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/masterplan.facilities.uiowa.edu.git'
+        mbhd2020.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        midwestregionburn.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        molcellcog.org:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.molcellcog.org
+        naa2019.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        nasscfl2020.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        neuronext.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/neuronext.org.git'
+            redirects:
+                - www.neuronext.org
+        oldcapitoltennis.com:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            redirects:
+                - www.oldcapitoltennis.com
+        postprovision.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/postprovision.uiowa.edu.git'
+        psychpostgrad.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        se.iowastem.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/se.iowastem.org.git'
+        teach.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/teach.uiowa.edu.git'
+        teachonline.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/teachonline.uiowa.edu.git'
+            redirects:
+                - facultysupport.distance.uiowa.edu
+        thelightbox.radiology.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/thelightbox.radiology.uiowa.edu.git'
+        tme2018.centerforconferences.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+            drush-groups:
+                - cfc_suite
+        uiservicecenter.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        wirrc.org:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/wirrc.org.git'
+        writing.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/writing.uiowa.edu.git'
+    uiowa703:
+        advisingcenter.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/advisingcenter.uiowa.edu.git'
+            profile: sitenow
+        afr.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/afr.fo.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - fo_suite
+        aging.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/aging.uiowa.edu.git'
+            profile: sitenow
+        animal.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/animal.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        archaeology.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/archaeology.uiowa.edu.git'
+            profile: sitenow
+        arts.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/arts.uiowa.edu.git'
+            profile: sitenow
+        basbls.uc.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/basbls.uc.uiowa.edu.git'
+        bme.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/bme.engineering.uiowa.edu.git'
+        brand.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/brand.uiowa.edu.git'
+        cam.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/cam.fo.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - fo_suite
+        careers.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/careers.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.careers.uiowa.edu
+        catering.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/catering.uiowa.edu.git'
+            profile: sitenow
+        cbb.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/cbb.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        cbe.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/cbe.engineering.uiowa.edu.git'
+            redirects:
+                - www.cbe.engineering.uiowa.edu
+        cee.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/cee.engineering.uiowa.edu.git'
+        cgrer.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/cgrer.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.cgrer.uiowa.edu
+        cio.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/cio.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.cio.uiowa.edu
+        classrooms.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/classrooms.uiowa.edu.git'
+            redirects:
+                - www.classrooms.uiowa.edu
+        cloudservices.its.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        cmrf.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/cmrf.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        coi.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/coi.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        controller.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/controller.fo.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - fo_suite
+        csi-allocations.its.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/csi-allocations.its.uiowa.edu.git'
+        desmoines.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/desmoines.uiowa.edu.git'
+        dining.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/dining.uiowa.edu.git'
+            profile: sitenow
+        distance.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/distance.uiowa.edu.git'
+            profile: sitenow
+        diversity.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/diversity.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.diversity.uiowa.edu
+        dsp.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/dsp.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        education.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/education.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.education.uiowa.edu
+        ece.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/ece.engineering.uiowa.edu.git'
+        ehs.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/ehs.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        etc.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/etc.engineering.uiowa.edu.git'
+        www.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/engineering.uiowa.edu.git'
+        fa.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/fa.fo.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - fo_suite
+        financialaid.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/financialaid.uiowa.edu.git'
+            profile: sitenow
+        fmb.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/fmb.fo.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - fo_suite
+        fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/fo.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.fo.uiowa.edu
+            drush-groups:
+                - fo_suite
+        foriowa.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/foriowa.uiowa.edu.git'
+        gao.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/gao.fo.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - fo_suite
+        gencounsel.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/gencounsel.uiowa.edu.git'
+            profile: sitenow
+        govrel.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/govrel.uiowa.edu.git'
+            profile: sitenow
+        grantbulletin.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/grantbulletin.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        grantwood.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/grantwood.uiowa.edu.git'
+            profile: sitenow
+        hancher.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/hancher.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.hancher.uiowa.edu
+        hawkeyespaces.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/hawkeyespaces.uiowa.edu.git'
+            profile: sitenow
+        honors.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/honors.uiowa.edu.git'
+            profile: sitenow
+        housing.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/housing.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.housing.uiowa.edu
+        hpc.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/hpc.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.hpc.uiowa.edu
+        hr.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/hr.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.hr.uiowa.edu
+        hrmsf.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/hrmsf.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        hso.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/hso.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        hts.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/hts.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        iae.education.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/iae.education.uiowa.edu.git'
+            profile: sitenow
+        icater.education.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/icater.education.uiowa.edu.git'
+        iisc.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/iisc.uiowa.edu.git'
+            profile: sitenow
+        informatics.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/informatics.uiowa.edu.git'
+            profile: sitenow
+        inrc.law.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/inrc.law.uiowa.edu.git'
+            profile: sitenow
+        inspire.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/inspire.uiowa.edu.git'
+            profile: sitenow
+        intranet.pharmacy.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/intranet.pharmacy.uiowa.edu.git'
+        international.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/international.uiowa.edu.git'
+            profile: sitenow
+        iowacreates.research.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/iowacreates.research.uiowa.edu.git'
+        ise.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/ise.engineering.uiowa.edu.git'
+        itpmo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/itpmo.uiowa.edu.git'
+            profile: sitenow
+        its.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/its.uiowa.edu.git'
+            redirects:
+                - www.its.uiowa.edu
+        itsecurity.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/itsecurity.uiowa.edu.git'
+            profile: sitenow
+        law.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/law.uiowa.edu.git'
+            redirects:
+                - www.law.uiowa.edu
+        liberalartsbeyondbars.uc.uiowa.edu:
+            type: standard
+            profile: sitenow_standard_profile
+            git: null
+        library.law.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/library.law.uiowa.edu.git'
+            profile: sitenow
+        magazine.education.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/magazine.education.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.magazine.education.uiowa.edu
+        maps.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/maps.uiowa.edu.git'
+            profile: sitenow
+        me.engineering.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/me.engineering.uiowa.edu.git'
+        medforms.sports.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/medforms.sports.uiowa.edu.git'
+            profile: sitenow
+        mnh.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/mnh.uiowa.edu.git'
+            profile: sitenow
+        newstudents.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/newstudents.uiowa.edu.git'
+            profile: sitenow
+        now.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/now.uiowa.edu.git'
+            profile: sitenow
+        nutrition.sports.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/nutrition.sports.uiowa.edu.git'
+            profile: sitenow
+        obermann.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/obermann.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.obermann.uiowa.edu
+        oldcap.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/oldcap.uiowa.edu.git'
+            profile: sitenow
+        oneit.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/oneit.uiowa.edu.git'
+            profile: sitenow
+        opsmanual.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/opsmanual.uiowa.edu.git'
+            profile: sitenow
+        outreach.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/outreach.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - artshare.uiowa.edu
+        osc.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/osc.uiowa.edu.git'
+        osmrc.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/osmrc.uiowa.edu.git'
+            profile: sitenow
+        ovproperations.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/ovproperations.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        pathforward.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/pathforward.uiowa.edu.git'
+        pharmacy.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/pharmacy.uiowa.edu.git'
+            redirects:
+                - www.pharmacy.uiowa.edu
+        police.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/police.uiowa.edu.git'
+            profile: sitenow
+        portalpages.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/portalpages.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        provost.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/provost.uiowa.edu.git'
+        rcouncil.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/rcouncil.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        recserv.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/recserv.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.recserv.uiowa.edu
+        registrar.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/registrar.uiowa.edu.git'
+            redirects:
+                - www.registrar.uiowa.edu
+        president.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/president.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.president.uiowa.edu
+        report.hancher.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/report.hancher.uiowa.edu.git'
+        reports.its.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/reports.its.uiowa.edu.git'
+            profile: sitenow
+        research.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/research.uiowa.edu.git'
+            redirects:
+                - www.research.uiowa.edu
+            drush-groups:
+                - ovpred_suite
+        researcherhandbook.research.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/researcherhandbook.research.uiowa.edu.git'
+            drush-groups:
+                - ovpred_suite
+        researchpark.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/researchpark.uiowa.edu.git'
+        ris.research.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/ris.research.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - ovpred_suite
+        shl.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/shl.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.shl.uiowa.edu
+        tax.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/tax.fo.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - fo_suite
+        teach.its.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/teach.its.uiowa.edu.git'
+            profile: sitenow
+        theme.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/theme.uiowa.edu.git'
+            profile: sitenow
+        tier.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/tier.uiowa.edu.git'
+            profile: sitenow
+        tile.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/tile.uiowa.edu.git'
+            profile: sitenow
+        tippie.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/tippie.uiowa.edu.git'
+            profile: sitenow
+            redirects:
+                - www.tippie.uiowa.edu
+        transportation.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/transportation.uiowa.edu.git'
+            profile: sitenow
+        treasury.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/treasury.fo.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - fo_suite
+        ubill.fo.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/ubill.fo.uiowa.edu.git'
+            profile: sitenow
+            drush-groups:
+                - fo_suite
+        uc.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/uc.uiowa.edu.git'
+            profile: sitenow
+        transfer.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/transfer.uiowa.edu.git'
+            profile: sitenow
+        uip.pharmacy.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/uip.pharmacy.uiowa.edu.git'
+        uiventures.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/uiventures.uiowa.edu.git'
+        ukchoralcomposers.lib.uiowa.edu:
+            type: custom
+            profile: sitenow
+            git: 'git@github.com:ITS-UofIowa/ukchoralcomposers.lib.uiowa.edu.git'
+        vending.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/vending.uiowa.edu.git'
+            profile: sitenow
+        worklife.uiowa.edu:
+            type: custom
+            git: 'git@github.com:ITS-UofIowa/worklife.uiowa.edu.git'
+            profile: sitenow
+    uihealthcaresignage:
+        signage.uihealthcare.org:
+            type: custom
+            profile: signage
+            git: 'git@github.com:ITS-UofIowa/signage.uihealthcare.org.git'
+            dev-uri: signage-dev.uihealthcare.org
+            stage-uri: signage-stage.uihealthcare.org
+    uisignage:
+        signage.uiowa.edu:
+            type: custom
+            profile: signage
+            git: 'git@github.com:ITS-UofIowa/signage.uiowa.edu.git'
+            dev-uri: signage-dev.uiowa.edu
+            stage-uri: signage-stage.uiowa.edu

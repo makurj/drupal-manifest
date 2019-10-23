@@ -1,0 +1,30 @@
+sudo: false
+
+language: php
+
+php:
+  - 5.6
+
+matrix:
+  fast_finish: true
+
+before_install:
+  - composer self-update
+
+install:
+  # Install dependencies.
+  - composer install
+
+script:
+  - ./bin/console lint:yaml .sites.yml
+
+before_deploy:
+  - cp .sites.yml sites.yml
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: false
+  on:
+    branch: master

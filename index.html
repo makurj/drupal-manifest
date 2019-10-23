@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="./js/yaml.js"></script>
+        <script src="./js/dSearch.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="./css/dSearch.css">
+        <link rel="stylesheet" type="text/css" href="./css/slider.css">
+        <link rel="stylesheet" type="text/css" href="./css/panel.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+              rel="stylesheet">
+        <!--Raleway Font-->
+        <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet">
+        <!--Font Awesome-->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    </head>
+
+    <body>
+        <input type="checkbox" id="slide" name="" value="" />
+        <div class="filter container">
+            <label for="slide" class="toggle">
+                <i class="material-icons menu">
+                    menu
+                </i>
+                <i class="material-icons close">
+                    close
+                </i>
+            </label>
+            <nav class="sidebar">
+                <div id="filter-uiowa-domains" class="filter-section">
+                    <p>Filter out uiowa.edu domains</p>
+                    <div class="switch_box box_1">
+                        <input type="checkbox" class="switch_1">
+                    </div>
+                </div>
+            </nav>
+        </div>
+
+        <div class = 'searchbox-wrapper'>
+            <div id = 'title'>
+                <h1>Docroot quick search</h1>
+            </div>
+            <div id = "searchbox">
+                <input type="textarea" id = 'site-search'>
+            </div>
+        </div>
+        <div id = "outbox">
+            What docroot is your site on?
+        </div>
+    </body>
+</html>

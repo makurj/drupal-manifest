@@ -1,0 +1,5 @@
+# Ignore system files.
+ *.sublime-workspace
+.DS_Store
+vendor
+.idea/

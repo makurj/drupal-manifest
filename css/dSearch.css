@@ -1,0 +1,131 @@
+:root {
+    --border-color: #d9dde2;
+    --text-color: #454545;
+    --focus-color: #00b0ff;
+    --link-color: #037CC2;
+    --body-text-color: #414141;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    color: var(--text-color);
+}
+
+.searchbox-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+#title h1 {
+    font-weight: 300;
+    font-size: 60px;
+    padding: 5px 122px;
+    text-align: center;
+    margin: 70px 0 0 0;
+}
+
+#searchbox {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+#outbox {
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#site-search {
+    color: var(--text-color);
+    font-size: 40px;
+    font-weight: 300;
+    font-family: 'Raleway', sans-serif;
+    padding: 3px 23px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    border: 1px solid var(--border-color);
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    transition-property: border-color;
+}
+
+#site-search:focus {
+    outline: none;
+    border-color: var(--focus-color);
+}
+
+@-webkit-keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {-webkit-transform: translateY(0);}
+    40% {-webkit-transform: translateY(-30px) }
+    60% {-webkit-transform: translateY(-20px);}
+}
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+    40% {transform: translateY(-30px);}
+    60% {transform: translateY(-20px);}
+}
+
+.bounce {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-name: bounce;
+    animation-name: bounce;
+}
+
+.site {
+    position: relative;
+    margin: 20px;
+    font-size: 1.1rem;
+    border: 1px solid var(--border-color);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    flex-basis: calc(100% - 40px);
+    overflow: hidden;
+}
+.site h2{
+    font-weight: 400;
+    padding: 10px 15px;
+    border-bottom: 1px solid var(--border-color);
+    position: relative;
+}
+
+.site h2 a{
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+.site-info {
+    color: var(--body-text-color);
+    padding: 10px 15px;
+}
+
+.site h2, .site p{
+    margin: 3px 0;
+}
+
+.site p strong{
+    font-weight: 700;
+}
+
+.site ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+p {
+    margin: 0;
+}

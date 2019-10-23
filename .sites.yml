@@ -5,7 +5,6 @@ sites:
             git: 'git@github.com:ITS-UofIowa/uiowa.edu.git'
             profile: sitenow
             redirects:
-                - www.uiowa.edu
                 - frontier.uiowa.edu
         uiowa.edu/acad-org-2020:
             type: standard
@@ -423,12 +422,6 @@ sites:
             git: null
             redirects:
                 - www.uiowa.edu/pad
-        uiowa.edu/pasttense:
-            type: standard
-            profile: sitenow_standard_profile
-            git: null
-            redirects:
-                - www.uiowa.edu/pasttense
         uiowa.edu/pinyin:
             type: standard
             profile: sitenow_standard_profile
